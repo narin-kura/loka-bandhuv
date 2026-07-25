@@ -1,0 +1,41 @@
+name: Supabase keep-alive
+
+# Free-tier Supabase projects auto-pause after 7 days with no API/DB activity
+# (and can be deleted if left paused). This job pings the REST API on a schedule
+# so the project always looks "active" and never pauses. Costs nothing.
+#
+# The values below are PUBLIC by design: the URL and the `anon` key are already
+# served to every visitor's browser via the app's /config endpoint, and the anon
+# key is protected by Row Level Security. The service-role key is NOT used here
+# and must never be committed.
+
+on:
+  schedule:
+    - cron: '37 5 * * *'   # daily at 05:37 UTC (odd minute avoids GitHub cron congestion)
+  workflow_dispatch:        # lets you run it manually from the Actions tab
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping Supabase REST to reset the pause timer
+        env:
+          SUPABASE_URL: https://dytimfwcvplpiqlbbjjs.supabase.co
+          SUPABASE_ANON_KEY: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImR5dGltZndjdnBscGlxbGJiampzIiwicm9sZSI6ImFub24iLCJpYXQiOjE3ODE0NTMyMDYsImV4cCI6MjA5NzAyOTIwNn0.gEyvgfwkaUsJSzHeuG4chNMrfmblKdFy7SwzGFZrPqU
+          TABLE: profiles
+        run: |
+          set -euo pipefail
+          code=$(curl -sS -o /dev/null -w '%{http_code}' \
+            "$SUPABASE_URL/rest/v1/$TABLE?select=user_id&limit=1" \
+            -H "apikey: $SUPABASE_ANON_KEY" \
+            -H "Authorization: Bearer $SUPABASE_ANON_KEY")
+          echo "Supabase responded with HTTP $code for a query on '$TABLE'."
+          # Any HTTP response (2xx rows/empty, or 4xx RLS/permission) means the
+          # project's API + database were reached — that resets the 7-day pause
+          # timer. Only a network failure or a 5xx indicates a real problem.
+          if [ "$code" -ge 200 ] && [ "$code" -lt 500 ]; then
+            echo "Project reached — pause timer reset. Done."
+          else
+            echo "::error::Unexpected status $code — Supabase may be unreachable."
+            exit 1
+          fi
