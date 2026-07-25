@@ -158,7 +158,11 @@
       "Reporting",
       "Donor Reporting (USAID, UN, CSR)",
       "Budgeting & Financial Reporting",
-      "Documentation & Reporting"
+      "Documentation & Reporting",
+      "Data Engineering",
+      "ETL Pipeline Design",
+      "Apache Airflow",
+      "dbt (data build tool)"
     ],
     "AI & Machine Learning": [
       "Machine Learning",
@@ -190,7 +194,10 @@
       "LLM/Prompt Engineering",
       "Food & Beverage Service",
       "ML Pipelines & Deployment",
-      "Bioinformatics Basics"
+      "Bioinformatics Basics",
+      "Large Language Models (LLMs)",
+      "Retrieval-Augmented Generation (RAG)",
+      "LangChain"
     ],
     "Cloud & DevOps": [
       "Cloud Computing",
@@ -277,7 +284,8 @@
       "Embedded Systems",
       "Control Systems",
       "Embedded Systems or Control Systems",
-      "Data Structures & Algorithms"
+      "Data Structures & Algorithms",
+      "Observability & Monitoring"
     ],
     "Databases": [
       "SQL",
@@ -1653,7 +1661,10 @@
       "ESG Frameworks (GRI, SASB, TCFD)",
       "Climate Risk Assessment",
       "Environmental Sampling & Analysis",
-      "ESG & Sustainability Frameworks"
+      "ESG & Sustainability Frameworks",
+      "ESG Reporting",
+      "Sustainability Auditing",
+      "Life Cycle Assessment (LCA)"
     ],
     "AR / VR & Gaming": [
       "Unity 3D",
@@ -1689,7 +1700,8 @@
       "Documentation (GDD — Game Design Document)",
       "Community Co-creation",
       "Community Building & Moderation",
-      "Game Design Principles"
+      "Game Design Principles",
+      "Game Level Design"
     ],
     "Research & Academia": [
       "Research Methodology",
@@ -1784,7 +1796,10 @@
       "Metal Fabrication",
       "Measurement & Fitting",
       "Brake & Suspension Service",
-      "Pipe Fitting & Installation"
+      "Pipe Fitting & Installation",
+      "Rooftop Solar PV Installation",
+      "Solar System Design",
+      "Drone Operation (DGCA Certified)"
     ],
     "India Government & Regulatory": [
       "UPSC Civil Services Preparation",
@@ -2338,7 +2353,10 @@
       "Battery Pack Diagnosis & Replacement",
       "EV Powertrain Fundamentals",
       "Charging Systems & EVSE",
-      "Engine & Transmission Repair"
+      "Engine & Transmission Repair",
+      "EV Battery Diagnostics",
+      "EV Charging Infrastructure",
+      "Battery Management Systems"
     ],
     "Everyday Life Skills": [
       "Home Cooking",
@@ -2617,6 +2635,22 @@
       "Handling Q&A from Audience",
       "Adapting Tone for Audience",
       "Using Mic & PA System"
+    ],
+    "Cybersecurity & Information Security": [
+      "Cybersecurity Fundamentals",
+      "Ethical Hacking",
+      "Penetration Testing",
+      "Security Operations (SOC)",
+      "Network Security",
+      "Cloud Security",
+      "Incident Response",
+      "Vulnerability Assessment"
+    ],
+    "Emerging Tech": [
+      "Blockchain Development",
+      "Smart Contracts (Solidity)",
+      "Robotics & Automation",
+      "Robot Operating System (ROS)"
     ]
   },
   "all_skills": [
@@ -5103,6 +5137,32 @@
     "Zari / Brocade Work",
     "Zero Trust Architecture",
     "Zoho Books",
-    "Zumba & Dance Fitness"
+    "Zumba & Dance Fitness",
+    "Large Language Models (LLMs)",
+    "Retrieval-Augmented Generation (RAG)",
+    "LangChain",
+    "ETL Pipeline Design",
+    "Apache Airflow",
+    "dbt (data build tool)",
+    "Observability & Monitoring",
+    "Cybersecurity Fundamentals",
+    "Penetration Testing",
+    "Security Operations (SOC)",
+    "Network Security",
+    "Vulnerability Assessment",
+    "ESG Reporting",
+    "Sustainability Auditing",
+    "Life Cycle Assessment (LCA)",
+    "EV Battery Diagnostics",
+    "EV Charging Infrastructure",
+    "Battery Management Systems",
+    "Rooftop Solar PV Installation",
+    "Solar System Design",
+    "Drone Operation (DGCA Certified)",
+    "Game Level Design",
+    "Blockchain Development",
+    "Smart Contracts (Solidity)",
+    "Robotics & Automation",
+    "Robot Operating System (ROS)"
   ]
 }

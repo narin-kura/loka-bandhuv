@@ -34934,5 +34934,178 @@
       "stable-job"
     ],
     "collar": "no"
+  },
+  {
+    "id": "esg_analyst",
+    "title": "Sustainability / ESG Analyst",
+    "category": "Business & Management",
+    "description": "Help organizations measure and improve their environmental, social, and governance performance — from carbon accounting to ESG disclosures.",
+    "salary_range": {
+      "min": 500000,
+      "max": 2000000,
+      "currency": "INR",
+      "note": "Entry to Mid"
+    },
+    "growth_outlook": "High",
+    "work_style": [
+      "Analytical",
+      "Mission-driven",
+      "Detail-oriented"
+    ],
+    "required_skills": [
+      {
+        "skill": "ESG Reporting",
+        "level": "critical"
+      },
+      {
+        "skill": "Carbon Accounting",
+        "level": "critical"
+      },
+      {
+        "skill": "Sustainability Auditing",
+        "level": "important"
+      },
+      {
+        "skill": "Data Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Communication",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "Environmental Science/Business degree",
+      "ESG/sustainability certification"
+    ],
+    "tags": [
+      "sustainability",
+      "esg",
+      "emerging",
+      "green-jobs"
+    ],
+    "region": "IN",
+    "qualifications": [
+      "Bachelor's in Environmental Science, Business, or related",
+      "ESG/sustainability reporting knowledge"
+    ],
+    "collar": "white",
+    "verification": {
+      "status": "draft",
+      "verified_at": null,
+      "note": "Auto-added for breadth; claims NOT yet source-verified. UI must show 'unverified' — no verified badge until sourced per VERIFICATION.md."
+    }
+  },
+  {
+    "id": "solar_technician",
+    "title": "Solar Energy Technician",
+    "category": "Energy & Utilities",
+    "description": "Install, maintain, and repair rooftop and ground-mounted solar power systems — a fast-growing green-collar trade in India.",
+    "salary_range": {
+      "min": 180000,
+      "max": 600000,
+      "currency": "INR",
+      "note": "Entry to Mid"
+    },
+    "growth_outlook": "High",
+    "work_style": [
+      "Hands-on",
+      "Safety-conscious",
+      "Practical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Rooftop Solar PV Installation",
+        "level": "critical"
+      },
+      {
+        "skill": "Solar System Design",
+        "level": "important"
+      },
+      {
+        "skill": "Basic Electrical Knowledge",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI / diploma",
+      "Suryamitra / Skill India solar training",
+      "On-the-job apprenticeship"
+    ],
+    "tags": [
+      "solar",
+      "green-jobs",
+      "trade",
+      "emerging"
+    ],
+    "region": "IN",
+    "qualifications": [
+      "ITI or 10+2",
+      "Suryamitra / Skill India solar installer certification"
+    ],
+    "collar": "white",
+    "verification": {
+      "status": "draft",
+      "verified_at": null,
+      "note": "Auto-added for breadth; claims NOT yet source-verified. UI must show 'unverified' — no verified badge until sourced per VERIFICATION.md."
+    }
+  },
+  {
+    "id": "ev_technician",
+    "title": "EV Service Technician",
+    "category": "Automotive & EV",
+    "description": "Diagnose, service, and repair electric vehicles and their battery systems — a rapidly expanding trade as India electrifies transport.",
+    "salary_range": {
+      "min": 200000,
+      "max": 700000,
+      "currency": "INR",
+      "note": "Entry to Mid"
+    },
+    "growth_outlook": "High",
+    "work_style": [
+      "Hands-on",
+      "Detail-oriented",
+      "Safety-conscious"
+    ],
+    "required_skills": [
+      {
+        "skill": "EV Battery Diagnostics",
+        "level": "critical"
+      },
+      {
+        "skill": "Battery Management Systems",
+        "level": "important"
+      },
+      {
+        "skill": "EV Charging Infrastructure",
+        "level": "important"
+      },
+      {
+        "skill": "Basic Electrical Knowledge",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI / automobile diploma",
+      "EV servicing certification (ASDC)",
+      "OEM training"
+    ],
+    "tags": [
+      "ev",
+      "automotive",
+      "trade",
+      "emerging"
+    ],
+    "region": "IN",
+    "qualifications": [
+      "ITI or diploma in Automobile/Electrical",
+      "ASDC EV technician certification"
+    ],
+    "collar": "white",
+    "verification": {
+      "status": "draft",
+      "verified_at": null,
+      "note": "Auto-added for breadth; claims NOT yet source-verified. UI must show 'unverified' — no verified badge until sourced per VERIFICATION.md."
+    }
   }
 ]
