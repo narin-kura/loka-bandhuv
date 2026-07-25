@@ -795,10 +795,10 @@
     "category": "Data & Analytics",
     "description": "Transform raw data into actionable insights through analysis and visualization. Data analysts help every department — from marketing to operations — make smarter decisions. A great entry point into the data field.",
     "salary_range": {
-      "min": 50000,
-      "max": 110000,
-      "currency": "USD",
-      "note": "Entry to Mid"
+      "min": 350000,
+      "max": 1200000,
+      "currency": "INR",
+      "note": "Entry ₹3.5–4.5L · Median ₹6.6L · Senior ₹12–25L"
     },
     "growth_outlook": "High",
     "work_style": [
@@ -862,7 +862,43 @@
       "Microsoft / Google Data Analytics certification",
       "SQL, Excel, Tableau / Power BI proficiency"
     ],
-    "collar": "white"
+    "collar": "white",
+    "verification": {
+      "status": "verified",
+      "verified_at": "2026-07-25",
+      "verified_by": "editorial",
+      "sources": {
+        "salary_range": {
+          "claim": "Entry ₹3.5–4.5 LPA; median ~₹6.63 LPA (Jul 2025); senior ₹12–25 LPA",
+          "source": "Glassdoor — Data Analyst Salaries, India",
+          "tier": "market-aggregator",
+          "url": "https://www.glassdoor.com/Salaries/india-data-analyst-salary-SRCH_IL.0,5_IN115_KO6,18.htm",
+          "as_of": "2025-07"
+        },
+        "growth_outlook": {
+          "claim": "High demand; closest official occupation (US, Data Scientists) projected +34% 2024–2034",
+          "source": "U.S. Bureau of Labor Statistics — Occupational Outlook Handbook, Data Scientists",
+          "tier": "government-official",
+          "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+          "as_of": "2024",
+          "note": "US figure used as a directional PROXY — India lacks role-level official projections. Replace with NASSCOM/NCS India data when citable."
+        },
+        "required_skills": {
+          "claim": "SQL, Excel, data visualization (Power BI/Tableau), Python/R, statistics, communication",
+          "source": "O*NET OnLine — Data Scientists (SOC 15-2051.00), U.S. Dept. of Labor",
+          "tier": "government-official",
+          "url": "https://www.onetonline.org/link/summary/15-2051.00",
+          "as_of": "2025"
+        },
+        "qualifications": {
+          "claim": "Typically a bachelor's degree (Statistics/Math/Economics/CS); certifications common",
+          "source": "O*NET Job Zone 4; BLS OOH How to Become One",
+          "tier": "government-official",
+          "url": "https://www.bls.gov/ooh/math/data-scientists.htm",
+          "as_of": "2024"
+        }
+      }
+    }
   },
   {
     "id": "business_analyst",
