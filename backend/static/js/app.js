@@ -109,8 +109,8 @@ const CAT_ICONS = {
   'Energy & Utilities':'⚡','Food Science & Nutrition':'🥗',
   'Publishing & Writing':'📝','Photography & Visual Media':'📷',
   'Spiritual & Religious':'🙏','Gemology & Jewelry':'💎',
-  'Biotechnology & Pharma R&D':'🧬','NGO & Development':'🌱',
-  'Library & Information Science':'📖'
+  'Pharma & Life Sciences':'🧬','NGO & Development':'🌱',
+  'Library & Information Science':'📖','Executive & Leadership':'👔'
 };
 
 async function init() {

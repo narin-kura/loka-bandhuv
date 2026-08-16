@@ -15,7 +15,7 @@ pinned: false
 [![Hugging Face](https://img.shields.io/badge/Mirror-Hugging%20Face-gray?style=flat-square&logo=huggingface)](https://knnarin-careerbandhu.hf.space)
 [![Google Cloud Run](https://img.shields.io/badge/Powered%20by-GCP%20Cloud%20Run-gray?style=flat-square&logo=google-cloud)](https://careerbandhu-h5axc6napq-uc.a.run.app/)
 
-**Your AI-powered career guide** — explore 65+ career paths, match your skills, and plan your future.
+**Your AI-powered career guide** — explore 580+ career paths, match your skills, and plan your future.
 
 Discover the right career based on your current skills. Get a personalized skill gap analysis, curated learning resources, and AI coaching tips to bridge the gap. Rate and explore career paths recommended by the community.
 

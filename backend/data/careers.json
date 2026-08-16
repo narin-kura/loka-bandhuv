@@ -21343,7 +21343,7 @@
   {
     "id": "biochemist_researcher_in",
     "title": "Biochemist / Molecular Biologist",
-    "category": "Biotechnology & Pharma R&D",
+    "category": "Pharma & Life Sciences",
     "region": "IN",
     "description": "Conduct research on biological molecules — proteins, DNA, enzymes, and metabolites — to advance medical science, develop drugs, create diagnostics, and understand disease mechanisms. India's biotech sector includes over 5,000 firms and a fast-growing biopharma industry (Biocon, Serum Institute, Sun Pharma R&D). Top research institutes include NCBS Bengaluru, CCMB Hyderabad, IISc, and IITs.",
     "salary_range": {
@@ -21407,7 +21407,7 @@
   {
     "id": "clinical_research_associate_in",
     "title": "Clinical Research Associate (CRA) / Clinical Trial Manager",
-    "category": "Biotechnology & Pharma R&D",
+    "category": "Pharma & Life Sciences",
     "region": "IN",
     "description": "Monitor and manage clinical trials of new drugs, medical devices, and vaccines — ensuring they are conducted in accordance with GCP (Good Clinical Practice) guidelines and regulatory requirements (CDSCO, ICH, FDA). India's clinical research industry employs thousands of CRAs at global CROs (Covance, IQVIA, Syneos Health) and Indian pharma companies (Cipla, Sun Pharma, Lupin). CRA roles require extensive travel to trial sites.",
     "salary_range": {
@@ -32294,7 +32294,7 @@
   {
     "id": "pharma_research_scientist_in",
     "title": "Pharmaceutical Research Scientist",
-    "category": "Biotechnology & Pharma R&D",
+    "category": "Pharma & Life Sciences",
     "description": "Develop and test new drugs, formulations, and therapies. Work in drug discovery, clinical research, regulatory affairs, or quality assurance. India is the world's pharmacy with Sun Pharma, Cipla, and Dr. Reddy's as major employers.",
     "salary_range": {
       "min": 40000,
@@ -32360,7 +32360,7 @@
   {
     "id": "bioinformatics_in",
     "title": "Bioinformatics Scientist",
-    "category": "Biotechnology & Pharma R&D",
+    "category": "Pharma & Life Sciences",
     "description": "Apply computational tools to analyse biological data including genomics, proteomics, drug target identification, and disease research. Sits at the intersection of biology, statistics, and computer science. Rapidly growing with India's genomics push.",
     "salary_range": {
       "min": 40000,
@@ -35107,5 +35107,5014 @@
       "verified_at": null,
       "note": "Auto-added for breadth; claims NOT yet source-verified. UI must show 'unverified' — no verified badge until sourced per VERIFICATION.md."
     }
+  },
+  {
+    "id": "ceo_in",
+    "title": "Chief Executive Officer (CEO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Set the strategy, build the leadership team and own the profit and loss of the whole company. The CEO answers to the board and investors for growth, culture and where capital goes - the buck stops here.",
+    "salary_range": {
+      "min": 300000,
+      "max": 5000000,
+      "currency": "INR/month",
+      "note": "SME chief executive to listed-company CEO; ESOPs and bonus often exceed base"
+    },
+    "growth_outlook": "Stable - every company has one; more roles as new companies form",
+    "work_style": [
+      "Board-facing",
+      "High-accountability",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "Strategic Planning",
+        "level": "critical"
+      },
+      {
+        "skill": "P&L Ownership",
+        "level": "critical"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Board & Investor Relations",
+        "level": "critical"
+      },
+      {
+        "skill": "Capital Allocation",
+        "level": "important"
+      },
+      {
+        "skill": "Organisation Design & Scaling",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Decision Making",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "15-25 years across functions, usually through a P&L role",
+      "Run a business unit or region with full P&L before the top job",
+      "Internal succession, or a board-led external search",
+      "Founder route - start and scale your own company"
+    ],
+    "qualifications": [
+      "No fixed degree - a track record of running a profitable P&L matters most",
+      "Engineering or commerce degree + MBA is the common Indian path",
+      "IIM / ISB / global MBA is common but not mandatory",
+      "Board-readiness programmes (IOD, NSE Academy) for listed-company roles"
+    ],
+    "tags": [
+      "ceo",
+      "chief-executive-officer",
+      "c-suite",
+      "executive",
+      "leadership",
+      "top-management"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "coo_in",
+    "title": "Chief Operating Officer (COO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Run the day-to-day machine - operations, delivery, service and cost - so the company actually does what the strategy promises. Often the CEO's second-in-command and a common stepping stone to the top job.",
+    "salary_range": {
+      "min": 200000,
+      "max": 2500000,
+      "currency": "INR/month",
+      "note": "Business-unit head to COO of a large enterprise"
+    },
+    "growth_outlook": "Stable - strong demand in scaling companies",
+    "work_style": [
+      "Operational",
+      "Leadership",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "Operations Management",
+        "level": "critical"
+      },
+      {
+        "skill": "P&L Ownership",
+        "level": "critical"
+      },
+      {
+        "skill": "Cross-functional Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Process Improvement",
+        "level": "important"
+      },
+      {
+        "skill": "Annual Operating Plan (AOP) & Budgeting",
+        "level": "important"
+      },
+      {
+        "skill": "Vendor Management",
+        "level": "helpful"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Rise through operations, supply chain, service delivery or plant leadership",
+      "Own a region or business unit P&L",
+      "Move to COO of a mid-size company, then a larger one"
+    ],
+    "qualifications": [
+      "B.E./B.Tech or commerce degree; MBA Operations is common",
+      "Lean / Six Sigma Black Belt valued in manufacturing and services",
+      "12-20 years of hands-on operating experience"
+    ],
+    "tags": [
+      "coo",
+      "chief-operating-officer",
+      "c-suite",
+      "operations",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cfo_in",
+    "title": "Chief Financial Officer (CFO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own finance end to end - reporting, controls, treasury, tax, fundraising and investor relations - and act as the CEO's main partner on where the money goes.",
+    "salary_range": {
+      "min": 200000,
+      "max": 3000000,
+      "currency": "INR/month",
+      "note": "Startup CFO to listed-company CFO"
+    },
+    "growth_outlook": "Strong - every funded or listed company needs one",
+    "work_style": [
+      "Board-facing",
+      "Analytical",
+      "High-accountability"
+    ],
+    "required_skills": [
+      {
+        "skill": "Financial Modelling",
+        "level": "critical"
+      },
+      {
+        "skill": "Corporate Governance",
+        "level": "critical"
+      },
+      {
+        "skill": "Capital Allocation",
+        "level": "critical"
+      },
+      {
+        "skill": "Board & Investor Relations",
+        "level": "critical"
+      },
+      {
+        "skill": "Audit & Internal Controls",
+        "level": "important"
+      },
+      {
+        "skill": "Tax Law",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Qualify as CA / CPA / CMA, or do an MBA Finance",
+      "Financial controller or FP&A head at a mid-size firm",
+      "CFO of a startup or SME, then a larger company"
+    ],
+    "qualifications": [
+      "Chartered Accountant (CA) is the dominant Indian path",
+      "MBA Finance, CFA or CPA also accepted",
+      "Listed-company CFO needs SEBI LODR and Ind AS depth"
+    ],
+    "tags": [
+      "cfo",
+      "chief-financial-officer",
+      "c-suite",
+      "finance",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cto_in",
+    "title": "Chief Technology Officer (CTO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own the technology strategy, architecture and engineering organisation - what to build, what to buy, and how the platform scales with the business.",
+    "salary_range": {
+      "min": 200000,
+      "max": 3000000,
+      "currency": "INR/month",
+      "note": "Startup CTO to enterprise technology head"
+    },
+    "growth_outlook": "Very strong - every product company needs technology leadership",
+    "work_style": [
+      "Technical leadership",
+      "Remote-friendly",
+      "Cross-functional"
+    ],
+    "required_skills": [
+      {
+        "skill": "Technology Roadmap & Architecture Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Engineering Org Management",
+        "level": "critical"
+      },
+      {
+        "skill": "System Design",
+        "level": "critical"
+      },
+      {
+        "skill": "Build vs Buy Decisions",
+        "level": "important"
+      },
+      {
+        "skill": "Hiring & Building Senior Teams",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Senior engineer to architect or engineering manager",
+      "Director or VP of Engineering with delivery ownership",
+      "CTO at a startup, then a scale-up or enterprise"
+    ],
+    "qualifications": [
+      "B.E./B.Tech in CS/IT typical; a strong hands-on background is expected",
+      "No MBA needed - depth in architecture and hiring matters more",
+      "Cloud and security certifications help in enterprise roles"
+    ],
+    "tags": [
+      "cto",
+      "chief-technology-officer",
+      "c-suite",
+      "technology",
+      "engineering",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cio_in",
+    "title": "Chief Information Officer (CIO) / Head of IT",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Run enterprise IT - ERP, networks, workplace systems, data and the vendor ecosystem - so the rest of the business gets reliable, secure and cost-effective technology.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2000000,
+      "currency": "INR/month",
+      "note": "IT head at a mid-size firm to CIO of a large enterprise"
+    },
+    "growth_outlook": "Stable - digital transformation keeps demand steady",
+    "work_style": [
+      "Enterprise",
+      "Vendor-facing",
+      "Leadership"
+    ],
+    "required_skills": [
+      {
+        "skill": "IT Governance & Vendor Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "ERP Systems",
+        "level": "critical"
+      },
+      {
+        "skill": "IT Budgeting & Cost Optimisation",
+        "level": "important"
+      },
+      {
+        "skill": "Change Management",
+        "level": "important"
+      },
+      {
+        "skill": "Vendor Management",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "IT support or infrastructure roles, then IT manager",
+      "Lead an ERP or digital-transformation programme",
+      "Head of IT at a mid-size firm, then CIO"
+    ],
+    "qualifications": [
+      "B.E./B.Tech or MCA; MBA Systems is common",
+      "ITIL, TOGAF or COBIT certification valued",
+      "15+ years across infrastructure, applications and vendor management"
+    ],
+    "tags": [
+      "cio",
+      "chief-information-officer",
+      "head-of-it",
+      "c-suite",
+      "it",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "ciso_in",
+    "title": "Chief Information Security Officer (CISO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own the organisation's security posture - policy, risk, compliance, architecture and breach response - and be the person who answers to the board when something goes wrong.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2500000,
+      "currency": "INR/month",
+      "note": "Security manager to CISO at a bank, IT services firm or large enterprise"
+    },
+    "growth_outlook": "Very strong - regulatory pressure and breach risk keep demand high",
+    "work_style": [
+      "High-accountability",
+      "Board-facing",
+      "On-call escalation"
+    ],
+    "required_skills": [
+      {
+        "skill": "Security Governance (ISO 27001 / NIST)",
+        "level": "critical"
+      },
+      {
+        "skill": "Incident Response Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Risk Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Compliance Management",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "SOC analyst or security engineer, then security architect",
+      "Security manager or head of information security",
+      "CISO at a bank, NBFC, IT services or large enterprise"
+    ],
+    "qualifications": [
+      "B.E./B.Tech or MCA; specialised security master's optional",
+      "CISSP, CISM or CISA is close to mandatory at this level",
+      "Working knowledge of the DPDP Act 2023, RBI and SEBI cyber norms"
+    ],
+    "tags": [
+      "ciso",
+      "chief-information-security-officer",
+      "c-suite",
+      "security",
+      "cybersecurity",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "chro_in",
+    "title": "Chief Human Resources Officer (CHRO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own people strategy end to end - hiring, capability, culture, compensation, industrial relations and succession - and partner the CEO on how the organisation is built.",
+    "salary_range": {
+      "min": 150000,
+      "max": 1800000,
+      "currency": "INR/month",
+      "note": "HR head at a mid-size firm to CHRO of a large group"
+    },
+    "growth_outlook": "Strong - talent and culture are board-level topics now",
+    "work_style": [
+      "People-facing",
+      "Leadership",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "Talent Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Organisation Design & Scaling",
+        "level": "critical"
+      },
+      {
+        "skill": "Succession Planning",
+        "level": "important"
+      },
+      {
+        "skill": "Compensation & Benefits Strategy",
+        "level": "important"
+      },
+      {
+        "skill": "Labour Law",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "HR generalist or HR business partner roles",
+      "Head of talent, HR head of a unit or region",
+      "CHRO of a mid-size company, then a larger group"
+    ],
+    "qualifications": [
+      "MBA HR or MSW / PGDM in Human Resources (XLRI, TISS, MDI are the classic routes)",
+      "Deep knowledge of Indian labour codes and industrial relations",
+      "15-20 years across HR functions including one plant or field role"
+    ],
+    "tags": [
+      "chro",
+      "chief-hr-officer",
+      "chief-human-resources-officer",
+      "c-suite",
+      "hr",
+      "people",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cmo_in",
+    "title": "Chief Marketing Officer (CMO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own brand, demand generation and the marketing budget - deciding how the company is positioned, where the spend goes and what returns it must deliver.",
+    "salary_range": {
+      "min": 150000,
+      "max": 2000000,
+      "currency": "INR/month",
+      "note": "Marketing head to CMO of a consumer or enterprise brand"
+    },
+    "growth_outlook": "Strong - digital spend keeps growing",
+    "work_style": [
+      "Creative",
+      "Analytical",
+      "Cross-functional"
+    ],
+    "required_skills": [
+      {
+        "skill": "Brand Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Marketing Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Digital Marketing",
+        "level": "important"
+      },
+      {
+        "skill": "Marketing Analytics & ROI",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Brand or performance marketing roles, then marketing manager",
+      "Head of marketing for a category, brand or region",
+      "CMO of a mid-size company, then a larger brand"
+    ],
+    "qualifications": [
+      "MBA Marketing is the common route but not mandatory",
+      "Provable revenue impact matters more than the degree",
+      "12-20 years across brand, digital and category management"
+    ],
+    "tags": [
+      "cmo",
+      "chief-marketing-officer",
+      "c-suite",
+      "marketing",
+      "brand",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cpo_product_in",
+    "title": "Chief Product Officer (CPO)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own what the company builds and why - product strategy, roadmap, pricing and the product organisation - working shoulder to shoulder with engineering and sales.",
+    "salary_range": {
+      "min": 200000,
+      "max": 2500000,
+      "currency": "INR/month",
+      "note": "Head of product to CPO at a product or SaaS company"
+    },
+    "growth_outlook": "Strong - growing with India's product and SaaS sector",
+    "work_style": [
+      "Cross-functional",
+      "Remote-friendly",
+      "Customer-facing"
+    ],
+    "required_skills": [
+      {
+        "skill": "Product Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Roadmapping",
+        "level": "critical"
+      },
+      {
+        "skill": "Product Analytics",
+        "level": "important"
+      },
+      {
+        "skill": "Cross-functional Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Product manager, then group or principal PM",
+      "Director or head of product for a business line",
+      "CPO at a startup or scale-up"
+    ],
+    "qualifications": [
+      "No fixed degree; engineering or design background common",
+      "MBA optional - shipped products and outcomes matter more",
+      "10-18 years with clear ownership of product outcomes"
+    ],
+    "tags": [
+      "cpo",
+      "chief-product-officer",
+      "head-of-product",
+      "c-suite",
+      "product",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cro_revenue_in",
+    "title": "Chief Revenue Officer (CRO) / VP Sales",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own the revenue number across sales, partnerships and customer success - territory design, pricing, quota setting and the sales organisation itself.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2500000,
+      "currency": "INR/month",
+      "note": "Sales head to CRO; large variable pay component"
+    },
+    "growth_outlook": "Strong - revenue leadership is always in demand",
+    "work_style": [
+      "Target-driven",
+      "Client-facing",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "Sales Strategy & Forecasting",
+        "level": "critical"
+      },
+      {
+        "skill": "Key Account Management",
+        "level": "important"
+      },
+      {
+        "skill": "Negotiation",
+        "level": "critical"
+      },
+      {
+        "skill": "Cross-functional Leadership",
+        "level": "important"
+      },
+      {
+        "skill": "Business Development",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Field sales, then key account or territory management",
+      "Regional sales manager, then national sales head",
+      "CRO or VP Sales at a growth-stage or enterprise company"
+    ],
+    "qualifications": [
+      "Any graduate degree; MBA common but not required",
+      "Consistent quota over-achievement is the real qualification",
+      "12-20 years with team and P&L responsibility"
+    ],
+    "tags": [
+      "cro",
+      "chief-revenue-officer",
+      "vp-sales",
+      "sales-head",
+      "c-suite",
+      "sales",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cdo_data_in",
+    "title": "Chief Data & Analytics Officer",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own data as a company asset - governance, platforms, analytics and AI adoption - and make sure decisions across the business actually run on trustworthy numbers.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2200000,
+      "currency": "INR/month",
+      "note": "Analytics head to chief data officer at a bank, retailer or enterprise"
+    },
+    "growth_outlook": "Growing fast - AI adoption is pushing data leadership up the org chart",
+    "work_style": [
+      "Analytical",
+      "Cross-functional",
+      "Leadership"
+    ],
+    "required_skills": [
+      {
+        "skill": "Data Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Data Governance",
+        "level": "critical"
+      },
+      {
+        "skill": "Business Intelligence",
+        "level": "important"
+      },
+      {
+        "skill": "Machine Learning",
+        "level": "helpful"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Data analyst or data engineer, then analytics lead",
+      "Head of data or analytics for a business line",
+      "Chief data officer at a bank, insurer, retailer or enterprise"
+    ],
+    "qualifications": [
+      "B.E./B.Tech, statistics or economics background typical",
+      "Master's in data science, statistics or an MBA is common",
+      "Knowledge of the DPDP Act 2023 and data-residency rules"
+    ],
+    "tags": [
+      "cdo",
+      "chief-data-officer",
+      "chief-analytics-officer",
+      "c-suite",
+      "data",
+      "analytics",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cso_strategy_in",
+    "title": "Chief Strategy Officer",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Decide where the company plays and how it wins - market entry, portfolio choices, partnerships and acquisitions - and turn that into plans the business can execute.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2200000,
+      "currency": "INR/month",
+      "note": "Strategy head to CSO; consulting background common"
+    },
+    "growth_outlook": "Stable - concentrated in large corporates and conglomerates",
+    "work_style": [
+      "Analytical",
+      "Board-facing",
+      "Cross-functional"
+    ],
+    "required_skills": [
+      {
+        "skill": "Corporate Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Market & Competitive Analysis",
+        "level": "critical"
+      },
+      {
+        "skill": "Business Case Development",
+        "level": "important"
+      },
+      {
+        "skill": "M&A Transactions",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Management consulting or corporate strategy team",
+      "Strategy or corporate development manager",
+      "Head of strategy, then chief strategy officer"
+    ],
+    "qualifications": [
+      "MBA from a top school is the common route",
+      "Consulting experience (McKinsey, BCG, Bain, Big Four) is a frequent path",
+      "10-18 years with visible strategic wins"
+    ],
+    "tags": [
+      "cso",
+      "chief-strategy-officer",
+      "corporate-development",
+      "c-suite",
+      "strategy",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "general_counsel_in",
+    "title": "General Counsel / Chief Legal Officer",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Lead the legal function - contracts, disputes, regulatory matters, governance and risk - and give the board a clear view of what the company can and cannot do.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2500000,
+      "currency": "INR/month",
+      "note": "Senior in-house counsel to general counsel of a large company"
+    },
+    "growth_outlook": "Strong - regulatory load keeps rising",
+    "work_style": [
+      "Board-facing",
+      "Advisory",
+      "High-accountability"
+    ],
+    "required_skills": [
+      {
+        "skill": "Corporate Law",
+        "level": "critical"
+      },
+      {
+        "skill": "Contract Drafting & Negotiation",
+        "level": "critical"
+      },
+      {
+        "skill": "Corporate Governance",
+        "level": "critical"
+      },
+      {
+        "skill": "Compliance Management",
+        "level": "important"
+      },
+      {
+        "skill": "Litigation",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "LL.B., then a corporate law firm or an in-house legal team",
+      "Senior counsel or head of legal for a business line",
+      "General counsel of a mid-size company, then a larger one"
+    ],
+    "qualifications": [
+      "LL.B. from a recognised law school; LL.M. optional",
+      "10-18 years in corporate law, in-house or at a top firm",
+      "Company Secretary (CS) qualification is a plus for listed companies"
+    ],
+    "tags": [
+      "general-counsel",
+      "chief-legal-officer",
+      "clo",
+      "head-of-legal",
+      "c-suite",
+      "legal",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "csco_supply_in",
+    "title": "Chief Supply Chain Officer / VP Operations",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own sourcing, manufacturing, logistics and inventory across the network - balancing cost, service and resilience for the whole company.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2000000,
+      "currency": "INR/month",
+      "note": "Supply chain head to chief supply chain officer"
+    },
+    "growth_outlook": "Strong - supply chain resilience is a board priority",
+    "work_style": [
+      "Operational",
+      "Travel",
+      "Leadership"
+    ],
+    "required_skills": [
+      {
+        "skill": "Supply Chain Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Procurement",
+        "level": "critical"
+      },
+      {
+        "skill": "Demand Forecasting",
+        "level": "important"
+      },
+      {
+        "skill": "Cost Management",
+        "level": "important"
+      },
+      {
+        "skill": "Cross-functional Leadership",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Supply chain analyst or planning roles",
+      "Plant, sourcing or logistics leadership",
+      "Head of supply chain, then chief supply chain officer"
+    ],
+    "qualifications": [
+      "B.E./B.Tech or MBA Operations / Supply Chain",
+      "APICS CSCP or CPIM is well regarded",
+      "15+ years across planning, sourcing and distribution"
+    ],
+    "tags": [
+      "chief-supply-chain-officer",
+      "vp-operations",
+      "supply-chain-head",
+      "c-suite",
+      "supply-chain",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "cco_risk_in",
+    "title": "Chief Compliance & Risk Officer",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Keep the company inside the law and inside its risk appetite - regulatory compliance, internal controls, risk frameworks and regulator relationships.",
+    "salary_range": {
+      "min": 175000,
+      "max": 2200000,
+      "currency": "INR/month",
+      "note": "Compliance head to chief risk officer at a bank, NBFC or insurer"
+    },
+    "growth_outlook": "Very strong - regulated sectors are mandated to have these roles",
+    "work_style": [
+      "Regulatory-intensive",
+      "Board-facing",
+      "Analytical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Compliance Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Risk Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Corporate Governance",
+        "level": "important"
+      },
+      {
+        "skill": "Internal Audit",
+        "level": "important"
+      },
+      {
+        "skill": "AML / KYC Compliance",
+        "level": "helpful"
+      },
+      {
+        "skill": "Leadership",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Compliance, audit or risk analyst roles",
+      "Compliance manager or head of risk for a business line",
+      "Chief compliance or chief risk officer, especially in BFSI"
+    ],
+    "qualifications": [
+      "CA, LL.B., MBA Finance or a risk-management master's",
+      "FRM, CAMS or CS qualification valued",
+      "RBI, SEBI and IRDAI compliance experience for regulated entities"
+    ],
+    "tags": [
+      "chief-compliance-officer",
+      "chief-risk-officer",
+      "c-suite",
+      "compliance",
+      "risk",
+      "governance",
+      "executive"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "md_country_head_in",
+    "title": "Managing Director / Country Head",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Lead an entire company, or a multinational's India business - strategy, P&L, regulators, partners and the local leadership team.",
+    "salary_range": {
+      "min": 300000,
+      "max": 4000000,
+      "currency": "INR/month",
+      "note": "Country head of an MNC to managing director of a large Indian company"
+    },
+    "growth_outlook": "Stable - grows with foreign investment and new company formation",
+    "work_style": [
+      "Board-facing",
+      "Travel",
+      "High-accountability"
+    ],
+    "required_skills": [
+      {
+        "skill": "P&L Ownership",
+        "level": "critical"
+      },
+      {
+        "skill": "Strategic Planning",
+        "level": "critical"
+      },
+      {
+        "skill": "Board & Investor Relations",
+        "level": "important"
+      },
+      {
+        "skill": "Cross-functional Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Negotiation",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Build 15-25 years with growing P&L responsibility",
+      "Lead a large region, function or business unit",
+      "Country manager for an MNC, or MD of an Indian company"
+    ],
+    "qualifications": [
+      "No fixed degree; MBA common at this level",
+      "Directorship requires a DIN and Companies Act 2013 compliance",
+      "Deep knowledge of the Indian market and regulatory environment"
+    ],
+    "tags": [
+      "managing-director",
+      "md",
+      "country-head",
+      "c-suite",
+      "executive",
+      "leadership",
+      "general-management"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "gm_business_head_in",
+    "title": "General Manager / Business Unit Head",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Run a business unit, plant or region as a mini-company - own its revenue, cost, people and customers. This is the classic proving ground before a C-suite role.",
+    "salary_range": {
+      "min": 125000,
+      "max": 800000,
+      "currency": "INR/month",
+      "note": "GM of a unit or region; the main feeder role into C-suite jobs"
+    },
+    "growth_outlook": "Strong - present in every mid-size and large company",
+    "work_style": [
+      "Operational",
+      "Leadership",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "P&L Ownership",
+        "level": "critical"
+      },
+      {
+        "skill": "Operations Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Budgeting",
+        "level": "important"
+      },
+      {
+        "skill": "Business Development",
+        "level": "important"
+      },
+      {
+        "skill": "Problem Solving",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Functional manager in sales, operations or plant roles",
+      "Take on a small P&L or a region",
+      "General manager of a unit, then a larger business"
+    ],
+    "qualifications": [
+      "B.E./B.Tech, commerce or science degree; MBA common",
+      "10-18 years with people and budget responsibility",
+      "Cross-functional exposure is what gets you the role"
+    ],
+    "tags": [
+      "general-manager",
+      "gm",
+      "business-unit-head",
+      "management",
+      "leadership",
+      "profit-and-loss"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "vp_engineering_in",
+    "title": "VP of Engineering",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Lead the engineering organisation - delivery, quality, hiring and process - so teams ship reliably at scale. Sits between the CTO's strategy and the teams doing the work.",
+    "salary_range": {
+      "min": 200000,
+      "max": 1200000,
+      "currency": "INR/month",
+      "note": "Engineering director to VP; ESOPs common at product companies"
+    },
+    "growth_outlook": "Very strong - global capability centres are hiring heavily in India",
+    "work_style": [
+      "Technical leadership",
+      "Remote-friendly",
+      "Team-based"
+    ],
+    "required_skills": [
+      {
+        "skill": "Engineering Org Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Hiring & Building Senior Teams",
+        "level": "critical"
+      },
+      {
+        "skill": "System Design",
+        "level": "important"
+      },
+      {
+        "skill": "Agile & Scrum",
+        "level": "important"
+      },
+      {
+        "skill": "Project Management",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Senior engineer, then tech lead or engineering manager",
+      "Director of engineering owning multiple teams",
+      "VP of Engineering at a product company or GCC"
+    ],
+    "qualifications": [
+      "B.E./B.Tech in CS/IT typical",
+      "12-18 years with several years managing managers",
+      "No MBA needed; delivery track record is the qualification"
+    ],
+    "tags": [
+      "vp-engineering",
+      "vp",
+      "engineering-leadership",
+      "technology",
+      "management",
+      "director-of-engineering"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "director_operations_in",
+    "title": "Director of Operations",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Own operational performance across sites or functions - service levels, cost per unit, capacity and the improvement roadmap - reporting to the COO or business head.",
+    "salary_range": {
+      "min": 150000,
+      "max": 800000,
+      "currency": "INR/month",
+      "note": "Senior operations manager to director; step below COO"
+    },
+    "growth_outlook": "Strong - demand across manufacturing, logistics and services",
+    "work_style": [
+      "Operational",
+      "Leadership",
+      "Multi-site"
+    ],
+    "required_skills": [
+      {
+        "skill": "Operations Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Process Improvement",
+        "level": "critical"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Annual Operating Plan (AOP) & Budgeting",
+        "level": "important"
+      },
+      {
+        "skill": "Vendor Management",
+        "level": "important"
+      },
+      {
+        "skill": "Data Analysis",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "Operations executive, then operations manager",
+      "Take multi-site or multi-function responsibility",
+      "Director of operations, then COO"
+    ],
+    "qualifications": [
+      "B.E./B.Tech or any graduate degree; MBA Operations common",
+      "Lean / Six Sigma Green or Black Belt valued",
+      "10-15 years running teams and budgets"
+    ],
+    "tags": [
+      "director-of-operations",
+      "director",
+      "operations",
+      "management",
+      "leadership"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "chief_of_staff_in",
+    "title": "Chief of Staff (to CEO / Founder)",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Be the CEO's force multiplier - drive the priorities that have no owner, run the leadership cadence, prepare board material and unblock whatever is stuck.",
+    "salary_range": {
+      "min": 100000,
+      "max": 600000,
+      "currency": "INR/month",
+      "note": "Startup chief of staff to enterprise CoS; often a fast track to a leadership role"
+    },
+    "growth_outlook": "Growing fast - now standard in startups and scale-ups",
+    "work_style": [
+      "Cross-functional",
+      "Fast-paced",
+      "Confidential"
+    ],
+    "required_skills": [
+      {
+        "skill": "Executive Communication",
+        "level": "critical"
+      },
+      {
+        "skill": "Project Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Stakeholder Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Strategic Planning",
+        "level": "important"
+      },
+      {
+        "skill": "Data Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Discretion",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "Consulting, strategy, product or finance background",
+      "Join a founder or CEO office as chief of staff",
+      "Move into a functional leadership or GM role after 2-3 years"
+    ],
+    "qualifications": [
+      "No fixed degree; MBA or consulting background common",
+      "5-12 years with strong written communication",
+      "Trust and discretion matter more than seniority"
+    ],
+    "tags": [
+      "chief-of-staff",
+      "cos",
+      "founder-office",
+      "strategy",
+      "executive",
+      "management"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "board_director_in",
+    "title": "Independent Director / Board Member",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Sit on a company's board to oversee strategy, governance, risk and executive pay on behalf of shareholders. In India, listed and large companies must appoint independent directors registered with the IICA databank.",
+    "salary_range": {
+      "min": 50000,
+      "max": 500000,
+      "currency": "INR/month",
+      "note": "Sitting fees plus commission per company; usually a portfolio of 2-5 boards"
+    },
+    "growth_outlook": "Growing - governance norms tightening for listed and large private companies",
+    "work_style": [
+      "Part-time",
+      "Board-facing",
+      "High-accountability"
+    ],
+    "required_skills": [
+      {
+        "skill": "Corporate Governance",
+        "level": "critical"
+      },
+      {
+        "skill": "Companies Act",
+        "level": "critical"
+      },
+      {
+        "skill": "Board Meeting & Secretarial Audit",
+        "level": "important"
+      },
+      {
+        "skill": "Risk Management",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Financial Modelling",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "Build 20+ years of senior functional, CEO or professional experience",
+      "Register with the IICA Independent Directors Databank and pass the online proficiency test",
+      "Get nominated to audit, nomination-and-remuneration or risk committees",
+      "Build a portfolio of 2-5 boards"
+    ],
+    "qualifications": [
+      "No fixed degree; senior domain or leadership track record required",
+      "IICA Independent Directors Databank registration + proficiency self-assessment test",
+      "Companies Act 2013 and SEBI LODR knowledge",
+      "Director Identification Number (DIN) required"
+    ],
+    "tags": [
+      "independent-director",
+      "board-member",
+      "board",
+      "governance",
+      "director",
+      "executive",
+      "non-executive"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "startup_founder_ceo_in",
+    "title": "Startup Founder / CEO",
+    "category": "Executive & Leadership",
+    "region": "IN",
+    "description": "Start a company, find product-market fit, raise capital and build the team. Pay is near zero early on and the risk is real - the upside is ownership and control.",
+    "salary_range": {
+      "min": 0,
+      "max": 2000000,
+      "currency": "INR/month",
+      "note": "Little or nothing before funding; equity is the real upside"
+    },
+    "growth_outlook": "Growing - India has the third-largest startup ecosystem globally",
+    "work_style": [
+      "High-risk",
+      "Self-employed",
+      "All-consuming"
+    ],
+    "required_skills": [
+      {
+        "skill": "Startup Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Fundraising & Pitching",
+        "level": "critical"
+      },
+      {
+        "skill": "Hiring & Building Senior Teams",
+        "level": "critical"
+      },
+      {
+        "skill": "Product Strategy",
+        "level": "important"
+      },
+      {
+        "skill": "Resilience & Bouncing Back",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Find a real problem and validate it with paying customers",
+      "Bootstrap, or raise angel and seed funding",
+      "Build the founding team and scale through Series A and beyond",
+      "Incubators and accelerators (T-Hub, NSRCEL, Y Combinator) help"
+    ],
+    "qualifications": [
+      "No degree required - execution and customer traction decide",
+      "Domain experience in the problem you are solving helps most",
+      "DPIIT startup recognition unlocks Indian tax and tender benefits"
+    ],
+    "tags": [
+      "founder",
+      "co-founder",
+      "startup",
+      "ceo",
+      "entrepreneur",
+      "executive"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "us_ceo",
+    "title": "Chief Executive Officer (CEO)",
+    "category": "Executive & Leadership",
+    "region": "US",
+    "description": "Set strategy, build the executive team and own company performance to the board and shareholders. Compensation is heavily weighted to equity and performance.",
+    "salary_range": {
+      "min": 180000,
+      "max": 1500000,
+      "currency": "USD/year",
+      "note": "Small-company CEO to large-cap; equity dominates total comp at scale"
+    },
+    "growth_outlook": "Stable - growth tracks new business formation",
+    "work_style": [
+      "Board-facing",
+      "High-accountability",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "Strategic Planning",
+        "level": "critical"
+      },
+      {
+        "skill": "P&L Ownership",
+        "level": "critical"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Board & Investor Relations",
+        "level": "critical"
+      },
+      {
+        "skill": "Capital Allocation",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "15-25 years with progressive P&L responsibility",
+      "Division president or COO role first",
+      "Internal succession or an executive-search placement",
+      "Founder route via venture-backed startups"
+    ],
+    "qualifications": [
+      "No fixed degree; MBA common at large caps",
+      "Public-company CEOs need SEC reporting and SOX familiarity",
+      "Prior board exposure strongly preferred"
+    ],
+    "tags": [
+      "ceo",
+      "chief-executive-officer",
+      "c-suite",
+      "executive",
+      "leadership",
+      "top-management"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "us_cfo",
+    "title": "Chief Financial Officer (CFO)",
+    "category": "Executive & Leadership",
+    "region": "US",
+    "description": "Lead finance, accounting, treasury and investor relations, and serve as the CEO's principal partner on capital allocation and forecasting.",
+    "salary_range": {
+      "min": 175000,
+      "max": 600000,
+      "currency": "USD/year",
+      "note": "Private-company CFO to public-company CFO; equity adds substantially"
+    },
+    "growth_outlook": "Strong - steady demand across public and PE-backed companies",
+    "work_style": [
+      "Board-facing",
+      "Analytical",
+      "High-accountability"
+    ],
+    "required_skills": [
+      {
+        "skill": "Financial Modelling",
+        "level": "critical"
+      },
+      {
+        "skill": "Corporate Governance",
+        "level": "critical"
+      },
+      {
+        "skill": "Capital Allocation",
+        "level": "critical"
+      },
+      {
+        "skill": "Board & Investor Relations",
+        "level": "critical"
+      },
+      {
+        "skill": "Audit & Internal Controls",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Accounting or FP&A roles, often after public-accounting experience",
+      "Controller or VP Finance",
+      "CFO at a startup or mid-market firm, then a larger company"
+    ],
+    "qualifications": [
+      "BS in Accounting or Finance; MBA common",
+      "CPA is the strongest credential; CFA also valued",
+      "Public-company roles require SOX and SEC reporting depth"
+    ],
+    "tags": [
+      "cfo",
+      "chief-financial-officer",
+      "c-suite",
+      "finance",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "us_cto",
+    "title": "Chief Technology Officer (CTO)",
+    "category": "Executive & Leadership",
+    "region": "US",
+    "description": "Own technology strategy, architecture and the engineering organisation, and decide how the platform scales with the business.",
+    "salary_range": {
+      "min": 190000,
+      "max": 600000,
+      "currency": "USD/year",
+      "note": "Startup CTO to enterprise CTO; equity is a large share of comp"
+    },
+    "growth_outlook": "Very strong - demand across software and technology-enabled firms",
+    "work_style": [
+      "Technical leadership",
+      "Remote-friendly",
+      "Cross-functional"
+    ],
+    "required_skills": [
+      {
+        "skill": "Technology Roadmap & Architecture Strategy",
+        "level": "critical"
+      },
+      {
+        "skill": "Engineering Org Management",
+        "level": "critical"
+      },
+      {
+        "skill": "System Design",
+        "level": "critical"
+      },
+      {
+        "skill": "Build vs Buy Decisions",
+        "level": "important"
+      },
+      {
+        "skill": "Hiring & Building Senior Teams",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Senior engineer to staff or principal engineer",
+      "Engineering manager, director, then VP",
+      "CTO at a startup or scale-up"
+    ],
+    "qualifications": [
+      "BS in Computer Science or equivalent hands-on background",
+      "No MBA expected; architecture and hiring depth matter more",
+      "15+ years including several leading engineering organisations"
+    ],
+    "tags": [
+      "cto",
+      "chief-technology-officer",
+      "c-suite",
+      "technology",
+      "engineering",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "us_coo",
+    "title": "Chief Operating Officer (COO)",
+    "category": "Executive & Leadership",
+    "region": "US",
+    "description": "Run day-to-day operations across delivery, service and cost, translating strategy into execution. Frequently the successor to the CEO.",
+    "salary_range": {
+      "min": 170000,
+      "max": 550000,
+      "currency": "USD/year",
+      "note": "Mid-market COO to large-enterprise COO"
+    },
+    "growth_outlook": "Stable - concentrated in mid-market and larger firms",
+    "work_style": [
+      "Operational",
+      "Leadership",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "Operations Management",
+        "level": "critical"
+      },
+      {
+        "skill": "P&L Ownership",
+        "level": "critical"
+      },
+      {
+        "skill": "Cross-functional Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Process Improvement",
+        "level": "important"
+      },
+      {
+        "skill": "Annual Operating Plan (AOP) & Budgeting",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Operations, supply chain or general management roles",
+      "Division or regional leadership with P&L",
+      "COO at a mid-market company, then a larger enterprise"
+    ],
+    "qualifications": [
+      "BS in Business, Engineering or Operations; MBA common",
+      "Lean / Six Sigma Black Belt valued in operating companies",
+      "15+ years of operating experience"
+    ],
+    "tags": [
+      "coo",
+      "chief-operating-officer",
+      "c-suite",
+      "operations",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "us_ciso",
+    "title": "Chief Information Security Officer (CISO)",
+    "category": "Executive & Leadership",
+    "region": "US",
+    "description": "Own enterprise security strategy, risk and incident response, and report the organisation's security posture to the board and regulators.",
+    "salary_range": {
+      "min": 180000,
+      "max": 500000,
+      "currency": "USD/year",
+      "note": "Enterprise CISO; financial services and healthcare pay a premium"
+    },
+    "growth_outlook": "Very strong - breach risk and regulation keep demand high",
+    "work_style": [
+      "High-accountability",
+      "Board-facing",
+      "On-call escalation"
+    ],
+    "required_skills": [
+      {
+        "skill": "Security Governance (ISO 27001 / NIST)",
+        "level": "critical"
+      },
+      {
+        "skill": "Incident Response Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Risk Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Compliance Management",
+        "level": "important"
+      },
+      {
+        "skill": "Executive Communication",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Security engineer or analyst, then security architect",
+      "Security manager or director of information security",
+      "CISO at an enterprise, bank or healthcare system"
+    ],
+    "qualifications": [
+      "BS in Computer Science, IT or Cybersecurity",
+      "CISSP or CISM is near-standard at this level",
+      "Familiarity with NIST CSF, SOC 2, HIPAA or PCI-DSS as applicable"
+    ],
+    "tags": [
+      "ciso",
+      "chief-information-security-officer",
+      "c-suite",
+      "security",
+      "cybersecurity",
+      "executive",
+      "leadership"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "us_chro",
+    "title": "Chief Human Resources Officer (CHRO)",
+    "category": "Executive & Leadership",
+    "region": "US",
+    "description": "Lead people strategy - talent, total rewards, culture, employee relations and succession - as a peer to the CEO and the board's compensation committee.",
+    "salary_range": {
+      "min": 170000,
+      "max": 450000,
+      "currency": "USD/year",
+      "note": "Mid-market CHRO to large-enterprise CHRO"
+    },
+    "growth_outlook": "Strong - talent strategy is a board-level topic",
+    "work_style": [
+      "People-facing",
+      "Leadership",
+      "Board-facing"
+    ],
+    "required_skills": [
+      {
+        "skill": "Talent Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Organisation Design & Scaling",
+        "level": "critical"
+      },
+      {
+        "skill": "Succession Planning",
+        "level": "important"
+      },
+      {
+        "skill": "Compensation & Benefits Strategy",
+        "level": "important"
+      },
+      {
+        "skill": "Change Management",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "HR generalist or HR business partner roles",
+      "Director of HR, then VP People",
+      "CHRO at a mid-market company, then a larger enterprise"
+    ],
+    "qualifications": [
+      "BS in HR, Business or Psychology; MBA or MS HR common",
+      "SHRM-SCP or SPHR certification valued",
+      "15+ years across HR functions including total rewards"
+    ],
+    "tags": [
+      "chro",
+      "chief-human-resources-officer",
+      "chief-people-officer",
+      "c-suite",
+      "hr",
+      "people",
+      "executive"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "us_vp_engineering",
+    "title": "VP of Engineering",
+    "category": "Executive & Leadership",
+    "region": "US",
+    "description": "Lead the engineering organisation - delivery, quality, hiring and engineering process - so teams ship predictably at scale.",
+    "salary_range": {
+      "min": 200000,
+      "max": 450000,
+      "currency": "USD/year",
+      "note": "VP at a scale-up to VP at a large tech company; equity adds significantly"
+    },
+    "growth_outlook": "Very strong - core role at every software company",
+    "work_style": [
+      "Technical leadership",
+      "Remote-friendly",
+      "Team-based"
+    ],
+    "required_skills": [
+      {
+        "skill": "Engineering Org Management",
+        "level": "critical"
+      },
+      {
+        "skill": "Hiring & Building Senior Teams",
+        "level": "critical"
+      },
+      {
+        "skill": "System Design",
+        "level": "important"
+      },
+      {
+        "skill": "Agile & Scrum",
+        "level": "important"
+      },
+      {
+        "skill": "Project Management",
+        "level": "important"
+      },
+      {
+        "skill": "Leadership",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "Senior engineer, then tech lead or engineering manager",
+      "Director of engineering owning multiple teams",
+      "VP of Engineering at a product company"
+    ],
+    "qualifications": [
+      "BS in Computer Science or equivalent",
+      "12-18 years including managing managers",
+      "Track record of scaling teams and delivery"
+    ],
+    "tags": [
+      "vp-engineering",
+      "vp",
+      "engineering-leadership",
+      "technology",
+      "management"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "plant_head_in",
+    "title": "Plant Head / Works Manager",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Run an entire factory - production, quality, maintenance, safety, cost and people. The plant head owns the site's output and its P&L, and is the senior-most person on the ground.",
+    "salary_range": {
+      "min": 150000,
+      "max": 900000,
+      "currency": "INR/month",
+      "note": "Plant head of a mid-size unit to works head of a large plant"
+    },
+    "growth_outlook": "Strong - PLI schemes and China+1 sourcing are expanding Indian manufacturing",
+    "work_style": [
+      "Plant-based",
+      "Leadership",
+      "High-accountability"
+    ],
+    "required_skills": [
+      {
+        "skill": "Plant Operations Management",
+        "level": "critical"
+      },
+      {
+        "skill": "P&L Ownership",
+        "level": "critical"
+      },
+      {
+        "skill": "Production Planning & Scheduling",
+        "level": "critical"
+      },
+      {
+        "skill": "EHS Management (ISO 45001 / ISO 14001)",
+        "level": "important"
+      },
+      {
+        "skill": "Lean / Kaizen / 5S",
+        "level": "important"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Cost Management",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech in Mechanical, Production, Chemical or Electrical",
+      "Shop-floor engineer to production manager",
+      "Head a department (production, quality or maintenance), then the plant",
+      "MBA Operations helps for multi-plant or corporate roles"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech in Mechanical / Production / Chemical / Electrical",
+      "15-25 years of plant experience across functions",
+      "Six Sigma Black Belt or TPM certification valued",
+      "Factories Act 1948 and state factory-licence knowledge required"
+    ],
+    "tags": [
+      "plant-head",
+      "works-manager",
+      "factory-manager",
+      "manufacturing",
+      "plant",
+      "operations",
+      "leadership"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "production_supervisor_in",
+    "title": "Production Supervisor / Shift In-charge",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Run a shift on the shop floor - allocate operators, hit the production plan, handle breakdowns and stoppages, and keep quality and safety on track hour by hour.",
+    "salary_range": {
+      "min": 22000,
+      "max": 70000,
+      "currency": "INR/month",
+      "note": "Line supervisor to senior shift in-charge"
+    },
+    "growth_outlook": "Strong - every manufacturing unit needs shift supervision",
+    "work_style": [
+      "Plant-based",
+      "Shift work",
+      "Hands-on"
+    ],
+    "required_skills": [
+      {
+        "skill": "Shop-floor Supervision",
+        "level": "critical"
+      },
+      {
+        "skill": "Production Planning & Scheduling",
+        "level": "critical"
+      },
+      {
+        "skill": "Quality Control",
+        "level": "important"
+      },
+      {
+        "skill": "OEE (Overall Equipment Effectiveness)",
+        "level": "important"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "important"
+      },
+      {
+        "skill": "Problem Solving",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Diploma or ITI in Mechanical, Production or Electrical",
+      "Start as a machine operator or trainee engineer",
+      "Move to line supervisor, then shift in-charge",
+      "B.Tech via lateral entry opens engineer-track roles"
+    ],
+    "qualifications": [
+      "ITI or Diploma in Mechanical / Production / Electrical",
+      "B.E./B.Tech accepted and preferred by larger plants",
+      "Shift work and floor experience matter most"
+    ],
+    "tags": [
+      "production-supervisor",
+      "shift-incharge",
+      "manufacturing",
+      "shop-floor",
+      "factory",
+      "supervisor"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "maintenance_engineer_in",
+    "title": "Maintenance Engineer (Plant & Machinery)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Keep the plant running - preventive schedules, breakdown repair, spares planning and machine uptime across mechanical, electrical and utility equipment.",
+    "salary_range": {
+      "min": 25000,
+      "max": 150000,
+      "currency": "INR/month",
+      "note": "Maintenance engineer to maintenance manager"
+    },
+    "growth_outlook": "Strong - a permanent need in every plant",
+    "work_style": [
+      "Plant-based",
+      "On-call",
+      "Hands-on"
+    ],
+    "required_skills": [
+      {
+        "skill": "Preventive & Predictive Maintenance",
+        "level": "critical"
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "level": "critical"
+      },
+      {
+        "skill": "Total Productive Maintenance (TPM)",
+        "level": "important"
+      },
+      {
+        "skill": "PLC Programming (Siemens, Allen-Bradley)",
+        "level": "important"
+      },
+      {
+        "skill": "Hydraulics & Pneumatics",
+        "level": "important"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Diploma or B.E./B.Tech in Mechanical, Electrical or Mechatronics",
+      "Start as a maintenance technician or graduate engineer trainee",
+      "Specialise in a machine family or utility area",
+      "Move to maintenance manager or reliability engineer"
+    ],
+    "qualifications": [
+      "Diploma or B.E. / B.Tech in Mechanical / Electrical / Mechatronics",
+      "PLC and drives training valued",
+      "TPM or CMRP certification for senior roles"
+    ],
+    "tags": [
+      "maintenance-engineer",
+      "plant-maintenance",
+      "manufacturing",
+      "breakdown",
+      "machinery",
+      "upkeep"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "reliability_engineer_in",
+    "title": "Reliability & Predictive Maintenance Engineer",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Stop breakdowns before they happen. Use vibration analysis, thermography, oil analysis and equipment data to predict failures and redesign maintenance strategy around risk.",
+    "salary_range": {
+      "min": 40000,
+      "max": 200000,
+      "currency": "INR/month",
+      "note": "Reliability engineer to reliability manager; strong in process industries"
+    },
+    "growth_outlook": "Growing - process plants are moving from breakdown to predictive maintenance",
+    "work_style": [
+      "Plant-based",
+      "Analytical",
+      "Technical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Reliability Centred Maintenance (RCM)",
+        "level": "critical"
+      },
+      {
+        "skill": "Condition Monitoring (Vibration, Thermography)",
+        "level": "critical"
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "level": "critical"
+      },
+      {
+        "skill": "FMEA & Quality Engineering",
+        "level": "important"
+      },
+      {
+        "skill": "Data Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Preventive & Predictive Maintenance",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech in Mechanical or Electrical",
+      "Maintenance engineer role first, to learn the equipment",
+      "Train in vibration analysis (ISO 18436 Cat I-III)",
+      "Move to reliability engineer, then reliability manager"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech in Mechanical / Electrical / Instrumentation",
+      "Vibration Analyst certification (ISO 18436) is the key credential",
+      "CMRP or CRE certification for senior roles"
+    ],
+    "tags": [
+      "reliability-engineer",
+      "predictive-maintenance",
+      "condition-monitoring",
+      "manufacturing",
+      "rcm"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "ehs_manager_in",
+    "title": "EHS Manager (Environment, Health & Safety)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Own safety and environmental performance for a site or a group of sites - risk assessments, statutory compliance, audits, training and incident investigation.",
+    "salary_range": {
+      "min": 45000,
+      "max": 250000,
+      "currency": "INR/month",
+      "note": "Safety officer to corporate EHS head"
+    },
+    "growth_outlook": "Strong - statutory requirement and rising ESG scrutiny",
+    "work_style": [
+      "Plant-based",
+      "Regulatory-intensive",
+      "Audit-driven"
+    ],
+    "required_skills": [
+      {
+        "skill": "EHS Management (ISO 45001 / ISO 14001)",
+        "level": "critical"
+      },
+      {
+        "skill": "Hazard Identification & Risk Assessment (HIRA)",
+        "level": "critical"
+      },
+      {
+        "skill": "Incident Investigation & Safety Audits",
+        "level": "critical"
+      },
+      {
+        "skill": "Factories Act & Pollution Control Norms",
+        "level": "important"
+      },
+      {
+        "skill": "Training Delivery",
+        "level": "important"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech or B.Sc, then a Diploma in Industrial Safety",
+      "Start as a safety officer at a plant or construction site",
+      "Add ISO 45001 / 14001 lead auditor certification",
+      "Move to EHS manager, then corporate EHS head"
+    ],
+    "qualifications": [
+      "Advanced Diploma in Industrial Safety (state board recognised) - usually mandatory",
+      "B.E. / B.Tech or B.Sc as the base degree",
+      "NEBOSH IGC valued for MNC and export-oriented plants",
+      "Factories Act 1948, and CPCB / SPCB consent norms"
+    ],
+    "tags": [
+      "ehs",
+      "safety-manager",
+      "health-and-safety",
+      "environment",
+      "manufacturing",
+      "compliance",
+      "hse"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "safety_officer_in",
+    "title": "Industrial Safety Officer",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Be the person on the floor who keeps people from getting hurt - permits to work, safety rounds, toolbox talks, PPE compliance and incident reporting.",
+    "salary_range": {
+      "min": 25000,
+      "max": 100000,
+      "currency": "INR/month",
+      "note": "Safety officer to safety in-charge; higher in oil, gas and construction"
+    },
+    "growth_outlook": "Strong - mandatory role in factories, sites and projects",
+    "work_style": [
+      "Plant-based",
+      "Field-based",
+      "Hands-on"
+    ],
+    "required_skills": [
+      {
+        "skill": "Hazard Identification & Risk Assessment (HIRA)",
+        "level": "critical"
+      },
+      {
+        "skill": "Permit to Work Systems",
+        "level": "critical"
+      },
+      {
+        "skill": "Incident Investigation & Safety Audits",
+        "level": "important"
+      },
+      {
+        "skill": "Fire Safety",
+        "level": "important"
+      },
+      {
+        "skill": "Training Delivery",
+        "level": "important"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "B.Sc or Diploma / B.E. in any engineering branch",
+      "Complete a state-recognised Diploma in Industrial Safety",
+      "Join a plant, construction site or oil and gas project",
+      "Add NEBOSH / IOSH for higher-paying and offshore roles"
+    ],
+    "qualifications": [
+      "Advanced Diploma in Industrial Safety - the standard requirement",
+      "NEBOSH IGC or IOSH Managing Safely for MNC and overseas roles",
+      "Factories Act 1948 and BOCW Act knowledge"
+    ],
+    "tags": [
+      "safety-officer",
+      "industrial-safety",
+      "hse",
+      "manufacturing",
+      "construction",
+      "ehs"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "quality_head_in",
+    "title": "Quality Head / Quality Manager",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Own product quality for a plant or business - the quality management system, customer complaints, supplier quality, audits and the cost of poor quality.",
+    "salary_range": {
+      "min": 80000,
+      "max": 400000,
+      "currency": "INR/month",
+      "note": "Quality manager to corporate quality head"
+    },
+    "growth_outlook": "Strong - export and OEM supply chains demand certified quality systems",
+    "work_style": [
+      "Plant-based",
+      "Audit-driven",
+      "Leadership"
+    ],
+    "required_skills": [
+      {
+        "skill": "Quality Management Systems (ISO 9001, IATF 16949, GMP)",
+        "level": "critical"
+      },
+      {
+        "skill": "8D / CAPA Problem Solving",
+        "level": "critical"
+      },
+      {
+        "skill": "Statistical Process Control (SPC)",
+        "level": "important"
+      },
+      {
+        "skill": "FMEA & Quality Engineering",
+        "level": "important"
+      },
+      {
+        "skill": "Vendor Development & Supplier Audits",
+        "level": "important"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech in Mechanical, Production or Chemical",
+      "Quality engineer, then quality assurance lead",
+      "Lead-auditor certification for the relevant standard",
+      "Move to quality manager, then head of quality"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech in an engineering discipline",
+      "ISO 9001 / IATF 16949 Lead Auditor certification",
+      "Six Sigma Black Belt strongly valued",
+      "12-20 years across quality functions"
+    ],
+    "tags": [
+      "quality-head",
+      "quality-manager",
+      "qa",
+      "qc",
+      "manufacturing",
+      "iso",
+      "leadership"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "lean_six_sigma_in",
+    "title": "Lean / Six Sigma Consultant (Continuous Improvement)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Find and remove waste, variation and cost from processes. Run structured improvement projects with measured savings, in factories and increasingly in services and back-office operations.",
+    "salary_range": {
+      "min": 50000,
+      "max": 350000,
+      "currency": "INR/month",
+      "note": "Green Belt practitioner to Master Black Belt or independent consultant"
+    },
+    "growth_outlook": "Strong - cost pressure keeps improvement roles funded",
+    "work_style": [
+      "Project-based",
+      "Analytical",
+      "Cross-functional"
+    ],
+    "required_skills": [
+      {
+        "skill": "Lean Manufacturing / Toyota Production System",
+        "level": "critical"
+      },
+      {
+        "skill": "Six Sigma",
+        "level": "critical"
+      },
+      {
+        "skill": "Value Stream Mapping",
+        "level": "critical"
+      },
+      {
+        "skill": "DMAIC Problem Solving",
+        "level": "critical"
+      },
+      {
+        "skill": "Statistical Process Control (SPC)",
+        "level": "important"
+      },
+      {
+        "skill": "Facilitation",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Any engineering or operations background",
+      "Certify as a Six Sigma Green Belt, then Black Belt",
+      "Lead improvement projects with hard savings numbers",
+      "Move to corporate CI roles or independent consulting"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech or MBA Operations",
+      "Six Sigma Black Belt (ASQ or IASSC accredited)",
+      "Lean / TPS practitioner training",
+      "A portfolio of quantified project savings is the real credential"
+    ],
+    "tags": [
+      "lean",
+      "six-sigma",
+      "continuous-improvement",
+      "kaizen",
+      "manufacturing",
+      "process-improvement",
+      "black-belt"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "ppc_engineer_in",
+    "title": "Production Planning & Control (PPC) Engineer",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Decide what the plant makes, when, and with which materials. Balance customer orders, machine capacity and raw-material availability so lines never starve and inventory never bloats.",
+    "salary_range": {
+      "min": 25000,
+      "max": 120000,
+      "currency": "INR/month",
+      "note": "PPC engineer to planning manager"
+    },
+    "growth_outlook": "Strong - core role in every discrete and process plant",
+    "work_style": [
+      "Plant-based",
+      "Analytical",
+      "Cross-functional"
+    ],
+    "required_skills": [
+      {
+        "skill": "Material Requirement Planning (MRP)",
+        "level": "critical"
+      },
+      {
+        "skill": "Production Planning & Scheduling",
+        "level": "critical"
+      },
+      {
+        "skill": "ERP Systems (SAP, Oracle)",
+        "level": "critical"
+      },
+      {
+        "skill": "Inventory Management",
+        "level": "important"
+      },
+      {
+        "skill": "Demand Forecasting",
+        "level": "important"
+      },
+      {
+        "skill": "MS Excel",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Diploma or B.E./B.Tech in Mechanical, Production or Industrial Engineering",
+      "Start in stores, production or as a planning trainee",
+      "Learn SAP PP or an equivalent ERP module",
+      "Move to PPC engineer, then planning manager"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech or Diploma in Mechanical / Production / Industrial Engineering",
+      "SAP PP / MM module training is a strong advantage",
+      "APICS CPIM for senior planning roles"
+    ],
+    "tags": [
+      "ppc",
+      "production-planning",
+      "planning",
+      "manufacturing",
+      "scheduling",
+      "mrp",
+      "sap"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "mechanical_design_engineer_in",
+    "title": "Mechanical Design Engineer (CAD / CAE)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Design parts, assemblies and machines in CAD, run simulations, choose materials and tolerances, and release drawings the shop floor can actually build.",
+    "salary_range": {
+      "min": 30000,
+      "max": 180000,
+      "currency": "INR/month",
+      "note": "Design engineer to design lead or manager"
+    },
+    "growth_outlook": "Strong - engineering services and OEM design centres keep hiring",
+    "work_style": [
+      "Office / Design centre",
+      "Technical",
+      "Team-based"
+    ],
+    "required_skills": [
+      {
+        "skill": "CAD (SolidWorks / NX / CATIA)",
+        "level": "critical"
+      },
+      {
+        "skill": "GD&T (Geometric Dimensioning & Tolerancing)",
+        "level": "critical"
+      },
+      {
+        "skill": "Design for Manufacturing (DFM)",
+        "level": "important"
+      },
+      {
+        "skill": "Finite Element Analysis (FEA)",
+        "level": "important"
+      },
+      {
+        "skill": "Manufacturing Processes",
+        "level": "important"
+      },
+      {
+        "skill": "Technical Drawing & Drafting",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech in Mechanical or Production Engineering",
+      "Learn one major CAD platform deeply (SolidWorks, NX or CATIA)",
+      "Join a design house, OEM or engineering services firm",
+      "Move to design lead, then design manager"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech in Mechanical / Production / Automobile Engineering",
+      "Certification in SolidWorks, CATIA or NX",
+      "ANSYS or similar FEA training for analysis roles"
+    ],
+    "tags": [
+      "mechanical-design",
+      "cad",
+      "design-engineer",
+      "manufacturing",
+      "product-design",
+      "solidworks",
+      "catia"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "metallurgist_in",
+    "title": "Metallurgist / Foundry Engineer",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Control what metal actually does - alloy selection, heat treatment, casting and welding quality, and failure analysis when a component cracks or wears out.",
+    "salary_range": {
+      "min": 30000,
+      "max": 150000,
+      "currency": "INR/month",
+      "note": "Metallurgist to metallurgy or foundry head"
+    },
+    "growth_outlook": "Stable - steel, auto components and foundries are large Indian employers",
+    "work_style": [
+      "Plant-based",
+      "Technical",
+      "Lab and floor"
+    ],
+    "required_skills": [
+      {
+        "skill": "Metallurgy & Heat Treatment",
+        "level": "critical"
+      },
+      {
+        "skill": "Foundry & Casting Processes",
+        "level": "critical"
+      },
+      {
+        "skill": "Material Testing & Failure Analysis",
+        "level": "critical"
+      },
+      {
+        "skill": "Non-Destructive Testing (UT, RT, MPT, DPT)",
+        "level": "important"
+      },
+      {
+        "skill": "Quality Control",
+        "level": "important"
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech in Metallurgical or Materials Engineering",
+      "Join a foundry, steel plant, forging unit or automotive supplier",
+      "Specialise in casting, heat treatment or failure analysis",
+      "Move to metallurgy head or quality leadership"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech in Metallurgical / Materials Engineering",
+      "M.Tech for R&D and specialised roles",
+      "NDT Level II certification is a useful add-on"
+    ],
+    "tags": [
+      "metallurgist",
+      "foundry",
+      "casting",
+      "heat-treatment",
+      "manufacturing",
+      "steel",
+      "materials"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "welding_engineer_in",
+    "title": "Welding Engineer / Fabrication Supervisor",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Own how things get joined - welding procedures, welder qualification, joint design and weld inspection - on fabrication shops, pressure vessels, pipelines and structures.",
+    "salary_range": {
+      "min": 25000,
+      "max": 120000,
+      "currency": "INR/month",
+      "note": "Fabrication supervisor to welding engineer; higher on oil and gas projects"
+    },
+    "growth_outlook": "Strong - infrastructure, oil and gas, and shipbuilding demand certified welding roles",
+    "work_style": [
+      "Workshop / Site",
+      "Hands-on",
+      "Travel for projects"
+    ],
+    "required_skills": [
+      {
+        "skill": "Welding Procedure Specification (WPS / PQR)",
+        "level": "critical"
+      },
+      {
+        "skill": "Welding Techniques (MIG, TIG, ARC)",
+        "level": "critical"
+      },
+      {
+        "skill": "Non-Destructive Testing (UT, RT, MPT, DPT)",
+        "level": "important"
+      },
+      {
+        "skill": "Technical Drawing & Drafting",
+        "level": "important"
+      },
+      {
+        "skill": "Quality Control",
+        "level": "important"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI or Diploma in Welding / Mechanical, or B.E. Mechanical",
+      "Work in a fabrication shop to learn processes hands-on",
+      "Certify as a Welding Inspector (CSWIP 3.1 or AWS CWI)",
+      "Move to welding engineer or QA/QC on projects"
+    ],
+    "qualifications": [
+      "ITI / Diploma / B.E. in Mechanical or Welding Technology",
+      "CSWIP 3.1 or AWS CWI certification - the key earning credential",
+      "ASME Section IX and API standards knowledge for oil and gas"
+    ],
+    "tags": [
+      "welding-engineer",
+      "fabrication",
+      "welding-inspector",
+      "manufacturing",
+      "cswip",
+      "qaqc"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "ndt_technician_in",
+    "title": "NDT Technician (Non-Destructive Testing)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Find cracks and defects without cutting anything open - ultrasonic, radiography, magnetic particle and dye penetrant testing on welds, castings, pipelines and aircraft parts.",
+    "salary_range": {
+      "min": 25000,
+      "max": 120000,
+      "currency": "INR/month",
+      "note": "Level I to Level III; overseas and offshore roles pay far more"
+    },
+    "growth_outlook": "Strong - refineries, pipelines and power plants need continuous inspection",
+    "work_style": [
+      "Plant / Site",
+      "Hands-on",
+      "Travel"
+    ],
+    "required_skills": [
+      {
+        "skill": "Non-Destructive Testing (UT, RT, MPT, DPT)",
+        "level": "critical"
+      },
+      {
+        "skill": "Radiography Safety (AERB norms)",
+        "level": "important"
+      },
+      {
+        "skill": "Technical Drawing & Drafting",
+        "level": "important"
+      },
+      {
+        "skill": "Report Writing & Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Diploma or B.Sc / B.E. in a science or engineering subject",
+      "Take ASNT or ISO 9712 Level II training in two or three methods",
+      "Join an NDT service company, refinery or fabrication yard",
+      "Progress to Level III, or move to QA/QC inspection roles"
+    ],
+    "qualifications": [
+      "Diploma / B.Sc / B.E. as the base qualification",
+      "ASNT SNT-TC-1A or ISO 9712 Level II in UT, RT, MPT, DPT",
+      "AERB RSO certification required for radiography work"
+    ],
+    "tags": [
+      "ndt",
+      "non-destructive-testing",
+      "ultrasonic",
+      "radiography",
+      "inspection",
+      "manufacturing",
+      "qaqc"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "metrology_calibration_in",
+    "title": "Metrology & Calibration Engineer",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Make sure every measurement in the plant can be trusted - calibrate instruments and gauges, run measurement system analysis, and keep the lab compliant with NABL requirements.",
+    "salary_range": {
+      "min": 25000,
+      "max": 110000,
+      "currency": "INR/month",
+      "note": "Calibration engineer to metrology lab in-charge"
+    },
+    "growth_outlook": "Stable - required wherever quality systems are certified",
+    "work_style": [
+      "Lab-based",
+      "Precision work",
+      "Technical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Calibration",
+        "level": "critical"
+      },
+      {
+        "skill": "Calibration & Measurement Systems Analysis (MSA)",
+        "level": "critical"
+      },
+      {
+        "skill": "Measurement/Metrology",
+        "level": "critical"
+      },
+      {
+        "skill": "GD&T (Geometric Dimensioning & Tolerancing)",
+        "level": "important"
+      },
+      {
+        "skill": "Quality Management Systems (ISO 9001, IATF 16949, GMP)",
+        "level": "important"
+      },
+      {
+        "skill": "Report Writing & Documentation",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Diploma or B.E./B.Tech in Mechanical, Instrumentation or Electronics",
+      "Join a quality lab, calibration agency or instrument maker",
+      "Train on CMM, ISO 17025 and MSA",
+      "Move to metrology lab in-charge or quality engineering"
+    ],
+    "qualifications": [
+      "Diploma / B.E. in Mechanical / Instrumentation / Electronics",
+      "ISO/IEC 17025 and NABL awareness training",
+      "CMM programming skills for dimensional metrology roles"
+    ],
+    "tags": [
+      "metrology",
+      "calibration",
+      "measurement",
+      "quality",
+      "manufacturing",
+      "cmm",
+      "nabl"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "tool_die_maker_in",
+    "title": "Tool & Die Maker",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Build and maintain the tools that make everything else - press dies, moulds, jigs and fixtures - working to tolerances measured in microns. One of the highest-skilled trades on the shop floor.",
+    "salary_range": {
+      "min": 20000,
+      "max": 90000,
+      "currency": "INR/month",
+      "note": "ITI trainee to senior toolmaker or tool room in-charge"
+    },
+    "growth_outlook": "Strong - skilled toolmakers are in short supply across India",
+    "work_style": [
+      "Workshop",
+      "Precision work",
+      "Hands-on"
+    ],
+    "required_skills": [
+      {
+        "skill": "Tool & Die Making",
+        "level": "critical"
+      },
+      {
+        "skill": "Jig & Fixture Design",
+        "level": "critical"
+      },
+      {
+        "skill": "Machine Operation",
+        "level": "critical"
+      },
+      {
+        "skill": "GD&T (Geometric Dimensioning & Tolerancing)",
+        "level": "important"
+      },
+      {
+        "skill": "Technical Drawing & Drafting",
+        "level": "important"
+      },
+      {
+        "skill": "Fine Motor Skills & Dexterity",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI in Tool & Die Maker trade, or a NTTF / CIPET diploma",
+      "Apprenticeship in a tool room",
+      "Learn CNC, EDM and wire-cut machining",
+      "Progress to senior toolmaker or tool room in-charge"
+    ],
+    "qualifications": [
+      "ITI Tool & Die Maker, or Diploma from NTTF / CIPET / MSME tool rooms",
+      "Apprenticeship (NAPS) is the standard entry",
+      "No degree required - precision skill is what is paid for"
+    ],
+    "tags": [
+      "tool-and-die",
+      "toolmaker",
+      "tool-room",
+      "die",
+      "mould",
+      "manufacturing",
+      "iti",
+      "skilled-trade"
+    ],
+    "collar": "blue"
+  },
+  {
+    "id": "cnc_programmer_in",
+    "title": "CNC / CAM Programmer",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Turn a 3D model into machine instructions - write and simulate CNC programs, choose tooling and cutting parameters, and prove out the first part on the machine.",
+    "salary_range": {
+      "min": 25000,
+      "max": 110000,
+      "currency": "INR/month",
+      "note": "CNC programmer to CAM lead or production engineer"
+    },
+    "growth_outlook": "Strong - precision machining demand from auto, aerospace and defence",
+    "work_style": [
+      "Workshop",
+      "Technical",
+      "Hands-on"
+    ],
+    "required_skills": [
+      {
+        "skill": "CNC Programming (G-code / CAM)",
+        "level": "critical"
+      },
+      {
+        "skill": "CAM Software (Mastercam, Fusion 360)",
+        "level": "critical"
+      },
+      {
+        "skill": "GD&T (Geometric Dimensioning & Tolerancing)",
+        "level": "important"
+      },
+      {
+        "skill": "Machine Operation",
+        "level": "important"
+      },
+      {
+        "skill": "Manufacturing Processes",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI or Diploma in Machinist / Mechanical, or B.E. Mechanical",
+      "Work as a CNC operator first to learn machine behaviour",
+      "Train on Mastercam, Fusion 360 or NX CAM",
+      "Move to CNC programmer, then CAM lead"
+    ],
+    "qualifications": [
+      "ITI / Diploma / B.E. in Mechanical or Production",
+      "CAM software certification (Mastercam, Fusion 360, NX)",
+      "Hands-on machine experience is expected"
+    ],
+    "tags": [
+      "cnc",
+      "cam",
+      "programming",
+      "machining",
+      "manufacturing",
+      "g-code",
+      "mastercam"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "injection_moulding_in",
+    "title": "Injection Moulding Setter / Plastics Technician",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Set up and tune plastic injection moulding machines - mould changes, process parameters, cycle time and defect troubleshooting - so parts come out right, shot after shot.",
+    "salary_range": {
+      "min": 18000,
+      "max": 70000,
+      "currency": "INR/month",
+      "note": "Machine operator to moulding setter or shift in-charge"
+    },
+    "growth_outlook": "Strong - packaging, auto components and consumer goods drive demand",
+    "work_style": [
+      "Plant-based",
+      "Shift work",
+      "Hands-on"
+    ],
+    "required_skills": [
+      {
+        "skill": "Injection Moulding Process Setting",
+        "level": "critical"
+      },
+      {
+        "skill": "Machine Operation",
+        "level": "critical"
+      },
+      {
+        "skill": "Quality Control",
+        "level": "important"
+      },
+      {
+        "skill": "Preventive & Predictive Maintenance",
+        "level": "important"
+      },
+      {
+        "skill": "Problem Solving",
+        "level": "important"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI in Plastic Processing, or a CIPET diploma",
+      "Start as a moulding machine operator",
+      "Learn mould changing and process parameter setting",
+      "Move to setter, then shift in-charge"
+    ],
+    "qualifications": [
+      "ITI Plastic Processing Operator, or CIPET Diploma (DPT / PPT)",
+      "CIPET certification is well recognised by plastics employers",
+      "No degree required"
+    ],
+    "tags": [
+      "injection-moulding",
+      "plastics",
+      "moulding",
+      "manufacturing",
+      "cipet",
+      "machine-setter",
+      "iti"
+    ],
+    "collar": "blue"
+  },
+  {
+    "id": "boiler_utility_operator_in",
+    "title": "Boiler / Utility Operator (Plant Utilities)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Operate the plant's utilities - boilers, compressors, chillers, ETP and DG sets - safely and efficiently. A statutory role: boilers must be run by a licensed operator.",
+    "salary_range": {
+      "min": 20000,
+      "max": 80000,
+      "currency": "INR/month",
+      "note": "Boiler attendant to boiler operation engineer; licence class drives pay"
+    },
+    "growth_outlook": "Stable - every process plant, textile mill and sugar unit needs licensed operators",
+    "work_style": [
+      "Plant-based",
+      "Shift work",
+      "Statutory role"
+    ],
+    "required_skills": [
+      {
+        "skill": "Boiler & Utility Operations",
+        "level": "critical"
+      },
+      {
+        "skill": "Boiler Operation Licence (Indian Boilers Act)",
+        "level": "critical"
+      },
+      {
+        "skill": "Preventive & Predictive Maintenance",
+        "level": "important"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "critical"
+      },
+      {
+        "skill": "Log Keeping & Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Basic Electrical Knowledge",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "ITI or Diploma in Mechanical / Electrical",
+      "Work as a boiler attendant under a licensed operator",
+      "Pass the state Boiler Attendant / Boiler Operation Engineer examination",
+      "Progress by licence class to larger boilers and better pay"
+    ],
+    "qualifications": [
+      "ITI / Diploma in Mechanical or Electrical",
+      "Boiler Attendant certificate (state boiler board) - statutory requirement",
+      "BOE (Boiler Operation Engineer) certificate for senior roles",
+      "Indian Boilers Act 1923 and Boiler Regulations knowledge"
+    ],
+    "tags": [
+      "boiler-operator",
+      "utilities",
+      "plant-operator",
+      "manufacturing",
+      "boe",
+      "power",
+      "steam"
+    ],
+    "collar": "blue"
+  },
+  {
+    "id": "smt_electronics_tech_in",
+    "title": "SMT / Electronics Assembly Technician",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Run electronics assembly lines - SMT pick-and-place, reflow, soldering, inspection and rework - for PCBs going into phones, appliances, EVs and industrial equipment.",
+    "salary_range": {
+      "min": 18000,
+      "max": 75000,
+      "currency": "INR/month",
+      "note": "SMT operator to line technician or process technician"
+    },
+    "growth_outlook": "Growing fast - PLI schemes are building India's electronics manufacturing base",
+    "work_style": [
+      "Plant-based",
+      "Cleanroom",
+      "Precision work"
+    ],
+    "required_skills": [
+      {
+        "skill": "SMT Line Operation & Soldering (IPC-A-610)",
+        "level": "critical"
+      },
+      {
+        "skill": "PCB Assembly & Rework",
+        "level": "critical"
+      },
+      {
+        "skill": "Machine Operation",
+        "level": "important"
+      },
+      {
+        "skill": "Quality Control",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "ESD & Cleanroom Discipline",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI or Diploma in Electronics",
+      "Join an EMS (electronics manufacturing services) plant as an operator",
+      "Get IPC-A-610 / J-STD-001 certified",
+      "Move to line technician or process technician"
+    ],
+    "qualifications": [
+      "ITI / Diploma in Electronics or Electrical",
+      "IPC-A-610 and J-STD-001 soldering certification",
+      "No degree required"
+    ],
+    "tags": [
+      "smt",
+      "electronics-assembly",
+      "pcb",
+      "soldering",
+      "manufacturing",
+      "ems",
+      "iti"
+    ],
+    "collar": "blue"
+  },
+  {
+    "id": "packaging_engineer_in",
+    "title": "Packaging Development Engineer",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Design packaging that protects the product, survives the supply chain, meets legal labelling rules and costs as little as possible - across FMCG, pharma, food and e-commerce.",
+    "salary_range": {
+      "min": 25000,
+      "max": 130000,
+      "currency": "INR/month",
+      "note": "Packaging executive to packaging development manager"
+    },
+    "growth_outlook": "Growing - e-commerce and sustainability rules are reshaping packaging",
+    "work_style": [
+      "Office and plant",
+      "Cross-functional",
+      "Technical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Packaging Design & Material Selection",
+        "level": "critical"
+      },
+      {
+        "skill": "Transit & Drop Testing",
+        "level": "important"
+      },
+      {
+        "skill": "Legal Metrology & Labelling Rules",
+        "level": "important"
+      },
+      {
+        "skill": "Cost Management",
+        "level": "important"
+      },
+      {
+        "skill": "Vendor Development & Supplier Audits",
+        "level": "important"
+      },
+      {
+        "skill": "Sustainability & Recyclability",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech, B.Sc, or an Indian Institute of Packaging (IIP) programme",
+      "Join an FMCG, pharma or packaging converter",
+      "Own material trials, artwork and vendor development",
+      "Move to packaging development manager"
+    ],
+    "qualifications": [
+      "PGDP from the Indian Institute of Packaging is the recognised specialist route",
+      "B.E. / B.Tech (Mechanical, Polymer, Printing) or B.Sc also accepted",
+      "Legal Metrology (Packaged Commodities) Rules knowledge"
+    ],
+    "tags": [
+      "packaging",
+      "packaging-engineer",
+      "fmcg",
+      "manufacturing",
+      "material",
+      "design"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "textile_production_manager_in",
+    "title": "Textile / Garment Production Manager",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Run a garment or textile factory floor - line balancing, sewing output, quality checks and shipment deadlines for domestic brands and export buyers.",
+    "salary_range": {
+      "min": 35000,
+      "max": 200000,
+      "currency": "INR/month",
+      "note": "Production manager to factory manager in a garment or textile unit"
+    },
+    "growth_outlook": "Strong - India is a major textile and garment exporter; Tiruppur, Ludhiana and NCR hubs",
+    "work_style": [
+      "Plant-based",
+      "Deadline-driven",
+      "Leadership"
+    ],
+    "required_skills": [
+      {
+        "skill": "Garment Production & Line Balancing",
+        "level": "critical"
+      },
+      {
+        "skill": "Production Planning & Scheduling",
+        "level": "critical"
+      },
+      {
+        "skill": "Quality Control",
+        "level": "critical"
+      },
+      {
+        "skill": "Industrial Engineering techniques (time study, line balancing)",
+        "level": "important"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "important"
+      },
+      {
+        "skill": "Buyer Compliance Audits (SEDEX, WRAP)",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Diploma or degree from NIFT, ATDC or a textile institute",
+      "Start as a production or industrial engineering trainee",
+      "Take charge of lines, then a floor",
+      "Move to production manager, then factory manager"
+    ],
+    "qualifications": [
+      "B.Tech Textile / Apparel Production, or NIFT / ATDC diploma",
+      "Industrial engineering training (GSD, SAM analysis) is a big advantage",
+      "Buyer compliance standards (WRAP, SEDEX, BSCI) knowledge for export units"
+    ],
+    "tags": [
+      "textile",
+      "garment",
+      "apparel",
+      "production-manager",
+      "manufacturing",
+      "export",
+      "nift"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "steel_rolling_mill_in",
+    "title": "Steel Plant / Rolling Mill Operator",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Operate furnaces, casters and rolling mills that turn molten metal into bars, coils and sections - hot, heavy work with high safety stakes and strong PSU and private-sector employment.",
+    "salary_range": {
+      "min": 22000,
+      "max": 90000,
+      "currency": "INR/month",
+      "note": "Operator to senior operator or shift in-charge in an integrated steel plant"
+    },
+    "growth_outlook": "Stable - large employer base at SAIL, Tata Steel, JSW and JSPL",
+    "work_style": [
+      "Plant-based",
+      "Shift work",
+      "Physically demanding"
+    ],
+    "required_skills": [
+      {
+        "skill": "Rolling Mill / Steel Plant Operations",
+        "level": "critical"
+      },
+      {
+        "skill": "Machine Operation",
+        "level": "critical"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "critical"
+      },
+      {
+        "skill": "Quality Control",
+        "level": "important"
+      },
+      {
+        "skill": "Preventive & Predictive Maintenance",
+        "level": "important"
+      },
+      {
+        "skill": "Physical Fitness & Stamina",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "ITI in Fitter, Turner, Electrician or Mechanic trade",
+      "Join a steel plant as a trainee operator or through apprenticeship",
+      "Qualify for PSU technician posts (SAIL, RINL) via written test",
+      "Progress to senior operator or shift in-charge"
+    ],
+    "qualifications": [
+      "ITI in a relevant trade, or Diploma in Mechanical / Metallurgy",
+      "Apprenticeship at a steel plant is a common entry",
+      "PSU roles need to be cleared through recruitment examinations"
+    ],
+    "tags": [
+      "steel-plant",
+      "rolling-mill",
+      "operator",
+      "manufacturing",
+      "metals",
+      "iti",
+      "sail"
+    ],
+    "collar": "blue"
+  },
+  {
+    "id": "process_engineer_chem_in",
+    "title": "Process Engineer (Chemicals & Refining)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Own how a chemical process actually runs - mass and energy balances, yields, troubleshooting, debottlenecking and safe operating limits in refineries, specialty chemicals and fertiliser plants.",
+    "salary_range": {
+      "min": 40000,
+      "max": 250000,
+      "currency": "INR/month",
+      "note": "Process engineer to process head; refineries and specialty chemicals pay best"
+    },
+    "growth_outlook": "Strong - refining, specialty chemicals and fertiliser capacity expanding",
+    "work_style": [
+      "Plant-based",
+      "Technical",
+      "Safety-critical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Chemical Process Design",
+        "level": "critical"
+      },
+      {
+        "skill": "Process Simulation & P&ID Reading",
+        "level": "critical"
+      },
+      {
+        "skill": "Process Safety Management (HAZOP)",
+        "level": "critical"
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Data Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Plant Operations Management",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech in Chemical Engineering",
+      "Join a refinery, chemical plant or EPC firm as a graduate engineer",
+      "Learn Aspen Plus / HYSYS and take part in HAZOP studies",
+      "Move to senior process engineer, then process head"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech in Chemical Engineering (mandatory)",
+      "M.Tech for design and R&D roles",
+      "Aspen HYSYS / Plus simulation skills",
+      "HAZOP and PSM training for process-safety roles"
+    ],
+    "tags": [
+      "process-engineer",
+      "chemical",
+      "refinery",
+      "petrochemical",
+      "manufacturing",
+      "hazop",
+      "aspen"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "stores_materials_in",
+    "title": "Stores & Materials In-charge (Plant)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Control everything the plant holds - raw material, spares and finished goods. Run receipts, issues, FIFO discipline, stock accuracy and physical verification against the ERP.",
+    "salary_range": {
+      "min": 20000,
+      "max": 80000,
+      "currency": "INR/month",
+      "note": "Stores assistant to stores or materials manager"
+    },
+    "growth_outlook": "Stable - every plant and warehouse needs stores control",
+    "work_style": [
+      "Plant-based",
+      "Systematic",
+      "Documentation-heavy"
+    ],
+    "required_skills": [
+      {
+        "skill": "Stores & Inventory Control (FIFO / FEFO)",
+        "level": "critical"
+      },
+      {
+        "skill": "Inventory Management",
+        "level": "critical"
+      },
+      {
+        "skill": "ERP Systems (SAP, Oracle)",
+        "level": "important"
+      },
+      {
+        "skill": "Material Requirement Planning (MRP)",
+        "level": "important"
+      },
+      {
+        "skill": "Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Any graduate degree, or Diploma in Materials Management",
+      "Start as a stores assistant or ERP data entry role",
+      "Learn SAP MM or an equivalent module",
+      "Move to stores in-charge, then materials manager"
+    ],
+    "qualifications": [
+      "Any graduate degree; Diploma in Materials Management (IIMM) valued",
+      "SAP MM module training is a strong advantage",
+      "GST and e-way bill documentation knowledge"
+    ],
+    "tags": [
+      "stores",
+      "materials",
+      "inventory",
+      "warehouse",
+      "manufacturing",
+      "sap-mm",
+      "plant"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "sourcing_procurement_engineer_in",
+    "title": "Sourcing & Procurement Engineer (Vendor Development)",
+    "category": "Manufacturing & Production",
+    "region": "IN",
+    "description": "Find, develop and negotiate with suppliers for parts and materials - costing, capability audits, sampling, quality escalations and long-term cost reduction.",
+    "salary_range": {
+      "min": 30000,
+      "max": 180000,
+      "currency": "INR/month",
+      "note": "Purchase engineer to sourcing manager"
+    },
+    "growth_outlook": "Strong - localisation and China+1 sourcing are expanding these teams",
+    "work_style": [
+      "Office and supplier visits",
+      "Travel",
+      "Analytical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Vendor Development & Supplier Audits",
+        "level": "critical"
+      },
+      {
+        "skill": "Procurement",
+        "level": "critical"
+      },
+      {
+        "skill": "Negotiation",
+        "level": "critical"
+      },
+      {
+        "skill": "Should-Cost Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Manufacturing Processes",
+        "level": "important"
+      },
+      {
+        "skill": "ERP Systems (SAP, Oracle)",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.E./B.Tech in Mechanical or Production Engineering",
+      "Start as a purchase or sourcing engineer",
+      "Own a commodity (castings, plastics, electronics) end to end",
+      "Move to sourcing manager, then head of procurement"
+    ],
+    "qualifications": [
+      "B.E. / B.Tech in an engineering discipline (technical sourcing)",
+      "Diploma in Materials Management (IIMM) or MBA Operations",
+      "Understanding of manufacturing processes is essential for cost negotiation"
+    ],
+    "tags": [
+      "sourcing",
+      "procurement",
+      "vendor-development",
+      "purchase",
+      "manufacturing",
+      "supply-chain",
+      "negotiation"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "us_quality_engineer",
+    "title": "Quality Engineer",
+    "category": "Manufacturing & Production",
+    "region": "US",
+    "description": "Own product and process quality in a manufacturing plant - inspection plans, capability studies, corrective actions and supplier quality - in automotive, aerospace, medical device or industrial production.",
+    "salary_range": {
+      "min": 65000,
+      "max": 110000,
+      "currency": "USD/year",
+      "note": "Quality engineer to senior quality engineer or quality manager"
+    },
+    "growth_outlook": "Stable - core role across US manufacturing",
+    "work_style": [
+      "Plant-based",
+      "Analytical",
+      "Cross-functional"
+    ],
+    "required_skills": [
+      {
+        "skill": "Quality Management Systems (ISO 9001, IATF 16949, GMP)",
+        "level": "critical"
+      },
+      {
+        "skill": "8D / CAPA Problem Solving",
+        "level": "critical"
+      },
+      {
+        "skill": "Statistical Process Control (SPC)",
+        "level": "critical"
+      },
+      {
+        "skill": "FMEA & Quality Engineering",
+        "level": "important"
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Calibration & Measurement Systems Analysis (MSA)",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "BS in Industrial, Mechanical or Manufacturing Engineering",
+      "Entry as a quality engineer or manufacturing engineer",
+      "ASQ Certified Quality Engineer (CQE) certification",
+      "Move to senior quality engineer or quality manager"
+    ],
+    "qualifications": [
+      "BS in Engineering (Industrial, Mechanical, Manufacturing)",
+      "ASQ CQE or CQA certification is the standard credential",
+      "Six Sigma Green or Black Belt widely expected",
+      "ISO 13485 for medical devices, AS9100 for aerospace"
+    ],
+    "tags": [
+      "quality-engineer",
+      "quality",
+      "manufacturing",
+      "asq",
+      "spc",
+      "six-sigma"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "us_maintenance_technician",
+    "title": "Industrial Maintenance Technician",
+    "category": "Manufacturing & Production",
+    "region": "US",
+    "description": "Keep production equipment running - troubleshoot mechanical, electrical, hydraulic and PLC-controlled systems, and perform preventive maintenance across the plant.",
+    "salary_range": {
+      "min": 45000,
+      "max": 85000,
+      "currency": "USD/year",
+      "note": "Maintenance technician to lead technician; overtime adds substantially"
+    },
+    "growth_outlook": "Strong - persistent shortage of skilled maintenance technicians",
+    "work_style": [
+      "Plant-based",
+      "Shift work",
+      "Hands-on"
+    ],
+    "required_skills": [
+      {
+        "skill": "Preventive & Predictive Maintenance",
+        "level": "critical"
+      },
+      {
+        "skill": "PLC Programming (Siemens, Allen-Bradley)",
+        "level": "critical"
+      },
+      {
+        "skill": "Hydraulics & Pneumatics",
+        "level": "critical"
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "level": "important"
+      },
+      {
+        "skill": "Electrical Safety/Codes",
+        "level": "important"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "High school diploma plus a technical or community-college program",
+      "Industrial maintenance or mechatronics associate degree",
+      "Apprenticeship or entry technician role at a plant",
+      "Move to lead technician or maintenance supervisor"
+    ],
+    "qualifications": [
+      "Associate degree or certificate in Industrial Maintenance / Mechatronics",
+      "No four-year degree required",
+      "PLC troubleshooting and OSHA 30 training strongly valued"
+    ],
+    "tags": [
+      "maintenance-technician",
+      "industrial-maintenance",
+      "manufacturing",
+      "plc",
+      "mechatronics",
+      "skilled-trade"
+    ],
+    "collar": "blue"
+  },
+  {
+    "id": "us_production_supervisor",
+    "title": "Production Supervisor",
+    "category": "Manufacturing & Production",
+    "region": "US",
+    "description": "Lead a production shift - staffing, output, safety and quality on the line - and act as the link between operators and plant management.",
+    "salary_range": {
+      "min": 55000,
+      "max": 95000,
+      "currency": "USD/year",
+      "note": "Production supervisor to production or plant manager"
+    },
+    "growth_outlook": "Stable - reshoring is adding US plant capacity",
+    "work_style": [
+      "Plant-based",
+      "Shift work",
+      "Leadership"
+    ],
+    "required_skills": [
+      {
+        "skill": "Shop-floor Supervision",
+        "level": "critical"
+      },
+      {
+        "skill": "Production Planning & Scheduling",
+        "level": "critical"
+      },
+      {
+        "skill": "OEE (Overall Equipment Effectiveness)",
+        "level": "important"
+      },
+      {
+        "skill": "Lean Manufacturing",
+        "level": "important"
+      },
+      {
+        "skill": "Team Leadership",
+        "level": "critical"
+      },
+      {
+        "skill": "Safety Awareness",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Associate or bachelor's degree, or promotion from the floor",
+      "Lead operator or line lead role first",
+      "Production supervisor on a shift",
+      "Move to production manager, then plant manager"
+    ],
+    "qualifications": [
+      "Associate or BS degree helpful; internal promotion is common",
+      "Lean / Six Sigma Green Belt valued",
+      "OSHA and safety-leadership training expected"
+    ],
+    "tags": [
+      "production-supervisor",
+      "manufacturing",
+      "shift-supervisor",
+      "plant",
+      "operations"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "pharma_production_officer_in",
+    "title": "Pharmaceutical Production Officer (GMP Manufacturing)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Manufacture medicines to GMP standards - run granulation, compression, coating, filling and packing operations, and document every step in the batch record as you go.",
+    "salary_range": {
+      "min": 20000,
+      "max": 120000,
+      "currency": "INR/month",
+      "note": "Production officer to production manager at a formulation or API plant"
+    },
+    "growth_outlook": "Strong - India makes around 20% of the world's generic medicines by volume",
+    "work_style": [
+      "Plant-based",
+      "Shift work",
+      "Documentation-heavy"
+    ],
+    "required_skills": [
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "critical"
+      },
+      {
+        "skill": "Batch Manufacturing Record (BMR / BPR) Documentation",
+        "level": "critical"
+      },
+      {
+        "skill": "Production Planning & Scheduling",
+        "level": "important"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "important"
+      },
+      {
+        "skill": "Machine Operation",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "B.Pharm, M.Pharm or B.Sc in Chemistry",
+      "Join a formulation or API plant as a production trainee",
+      "Move through officer to executive to production manager",
+      "Hyderabad, Ahmedabad, Baddi, Sikkim and Goa are the main clusters"
+    ],
+    "qualifications": [
+      "B.Pharm / M.Pharm preferred; B.Sc Chemistry accepted at many plants",
+      "Schedule M (revised) and WHO-GMP knowledge",
+      "US FDA / EU-GMP exposure raises pay significantly"
+    ],
+    "tags": [
+      "pharma",
+      "production",
+      "gmp",
+      "manufacturing",
+      "formulation",
+      "api",
+      "b-pharm"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "pharma_qa_officer_in",
+    "title": "Pharma Quality Assurance (QA) Officer",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Guard the quality system - review batch records, handle deviations, CAPA and change control, run internal audits and face regulatory inspections from CDSCO, US FDA or EU authorities.",
+    "salary_range": {
+      "min": 25000,
+      "max": 150000,
+      "currency": "INR/month",
+      "note": "QA officer to QA manager or head of quality"
+    },
+    "growth_outlook": "Strong - regulatory scrutiny keeps QA headcount growing",
+    "work_style": [
+      "Plant-based",
+      "Audit-driven",
+      "Documentation-heavy"
+    ],
+    "required_skills": [
+      {
+        "skill": "Quality Management System (QMS) - Deviations, CAPA, Change Control",
+        "level": "critical"
+      },
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "critical"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "critical"
+      },
+      {
+        "skill": "Batch Manufacturing Record (BMR / BPR) Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Internal Audit",
+        "level": "important"
+      },
+      {
+        "skill": "Report Writing & Documentation",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.Pharm or M.Pharm, or M.Sc in Chemistry",
+      "Start as a QA officer reviewing batch documentation",
+      "Take on deviations, CAPA and audit support",
+      "Move to QA manager, then head of quality"
+    ],
+    "qualifications": [
+      "B.Pharm / M.Pharm / M.Sc Chemistry",
+      "Schedule M, WHO-GMP, US FDA 21 CFR Part 211 knowledge",
+      "Data integrity (ALCOA+) training is now a hiring filter"
+    ],
+    "tags": [
+      "pharma",
+      "qa",
+      "quality-assurance",
+      "gmp",
+      "audit",
+      "capa",
+      "compliance"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "pharma_qc_analyst_in",
+    "title": "Pharma Quality Control (QC) Analyst",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Test raw materials, in-process samples and finished medicines in the lab - HPLC, GC, dissolution and stability studies - and release or reject each batch on the data.",
+    "salary_range": {
+      "min": 22000,
+      "max": 120000,
+      "currency": "INR/month",
+      "note": "QC analyst to QC manager"
+    },
+    "growth_outlook": "Strong - every pharma plant runs a large QC lab",
+    "work_style": [
+      "Lab-based",
+      "Precision work",
+      "Shift work"
+    ],
+    "required_skills": [
+      {
+        "skill": "HPLC / GC Operation",
+        "level": "critical"
+      },
+      {
+        "skill": "Analytical Techniques (HPLC, NMR, MS)",
+        "level": "critical"
+      },
+      {
+        "skill": "Dissolution & Stability Studies (ICH Q1A)",
+        "level": "important"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "critical"
+      },
+      {
+        "skill": "Lab Documentation (Good Laboratory Practice)",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "B.Pharm, M.Pharm, or B.Sc / M.Sc in Chemistry",
+      "Join a QC lab as an analyst trainee",
+      "Master HPLC and GC operation and troubleshooting",
+      "Move to senior analyst, then QC manager"
+    ],
+    "qualifications": [
+      "M.Sc Chemistry / M.Pharm preferred; B.Sc accepted for junior roles",
+      "Hands-on HPLC and GC experience is the main hiring criterion",
+      "Knowledge of IP, BP, USP pharmacopoeial methods"
+    ],
+    "tags": [
+      "pharma",
+      "qc",
+      "quality-control",
+      "hplc",
+      "laboratory",
+      "analyst",
+      "testing"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "regulatory_affairs_in",
+    "title": "Regulatory Affairs Associate / Manager (DRA)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Get medicines legally approved. Compile dossiers in CTD/eCTD format, file ANDAs and DMFs with the US FDA, EU or CDSCO, answer regulator queries and keep approvals current.",
+    "salary_range": {
+      "min": 30000,
+      "max": 250000,
+      "currency": "INR/month",
+      "note": "RA associate to regulatory affairs manager; US and EU filings pay most"
+    },
+    "growth_outlook": "Very strong - India files the largest number of ANDAs with the US FDA",
+    "work_style": [
+      "Office-based",
+      "Documentation-heavy",
+      "Deadline-driven"
+    ],
+    "required_skills": [
+      {
+        "skill": "Regulatory Dossier Filing (CTD / eCTD)",
+        "level": "critical"
+      },
+      {
+        "skill": "ANDA / DMF Submissions",
+        "level": "critical"
+      },
+      {
+        "skill": "CDSCO & US FDA Regulations",
+        "level": "critical"
+      },
+      {
+        "skill": "Regulatory & Scientific Medical Writing",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "Project Management",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.Pharm or M.Pharm; a PG Diploma in Drug Regulatory Affairs helps",
+      "Join a pharma company or regulatory consultancy as an RA associate",
+      "Specialise by market (US, EU, emerging markets)",
+      "Move to RA manager, then head of regulatory affairs"
+    ],
+    "qualifications": [
+      "B.Pharm / M.Pharm / M.Sc Life Sciences",
+      "PG Diploma in Drug Regulatory Affairs (DRA) is the specialist route",
+      "Knowledge of ICH CTD, US FDA 21 CFR, EU Directive 2001/83/EC",
+      "Drugs and Cosmetics Act 1940 and New Drugs Rules 2019"
+    ],
+    "tags": [
+      "pharma",
+      "regulatory-affairs",
+      "dra",
+      "anda",
+      "fda",
+      "cdsco",
+      "dossier"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "pharmacovigilance_in",
+    "title": "Pharmacovigilance / Drug Safety Associate",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Track whether medicines are hurting people. Collect and assess adverse event reports, code them in MedDRA, write safety narratives and file expedited and periodic reports to regulators.",
+    "salary_range": {
+      "min": 25000,
+      "max": 180000,
+      "currency": "INR/month",
+      "note": "Drug safety associate to PV manager; large employer base at CROs and KPOs"
+    },
+    "growth_outlook": "Very strong - global PV work is heavily outsourced to India",
+    "work_style": [
+      "Office / Remote",
+      "Documentation-heavy",
+      "Shift work for global cases"
+    ],
+    "required_skills": [
+      {
+        "skill": "Pharmacovigilance & Adverse Event Reporting",
+        "level": "critical"
+      },
+      {
+        "skill": "MedDRA & Argus Safety",
+        "level": "critical"
+      },
+      {
+        "skill": "Regulatory & Scientific Medical Writing",
+        "level": "important"
+      },
+      {
+        "skill": "GCP (Good Clinical Practice)",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "Medical Terminology",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.Pharm, M.Pharm, BDS, BAMS, MBBS or life-sciences degree",
+      "Take a pharmacovigilance certification course",
+      "Join a CRO, KPO or pharma safety team as a drug-safety associate",
+      "Move to case processing lead, then PV scientist or manager"
+    ],
+    "qualifications": [
+      "B.Pharm / M.Pharm / life-sciences degree; medical graduates preferred for signal roles",
+      "Certificate in Pharmacovigilance (widely offered)",
+      "Argus Safety or ArisGlobal database training",
+      "ICH E2A-E2F and CDSCO PvPI guidance knowledge"
+    ],
+    "tags": [
+      "pharma",
+      "pharmacovigilance",
+      "drug-safety",
+      "pv",
+      "meddra",
+      "argus",
+      "adverse-events"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "formulation_scientist_in",
+    "title": "Formulation Development Scientist (F&D)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Turn a drug molecule into a usable medicine - tablets, capsules, injectables, creams or novel delivery systems - through excipient selection, trials, scale-up and stability testing.",
+    "salary_range": {
+      "min": 35000,
+      "max": 250000,
+      "currency": "INR/month",
+      "note": "F&D scientist to formulation head at a generics or innovator company"
+    },
+    "growth_outlook": "Strong - generics pipelines and CDMO growth drive F&D hiring",
+    "work_style": [
+      "Lab-based",
+      "R&D",
+      "Knowledge work"
+    ],
+    "required_skills": [
+      {
+        "skill": "Formulation Development (Solid / Liquid / Injectable)",
+        "level": "critical"
+      },
+      {
+        "skill": "Dissolution & Stability Studies (ICH Q1A)",
+        "level": "critical"
+      },
+      {
+        "skill": "Analytical Method Development & Validation",
+        "level": "important"
+      },
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "important"
+      },
+      {
+        "skill": "Experimental Design",
+        "level": "important"
+      },
+      {
+        "skill": "Scientific Publishing",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "M.Pharm in Pharmaceutics is the standard entry",
+      "Join an F&D lab at a generics company or CRO",
+      "Own products from lab trials through exhibit batches",
+      "Move to senior scientist, then formulation head"
+    ],
+    "qualifications": [
+      "M.Pharm (Pharmaceutics) strongly preferred; Ph.D for senior R&D",
+      "Knowledge of ICH Q1A, Q8 (QbD) and BCS classification",
+      "Experience with exhibit and scale-up batches is highly valued"
+    ],
+    "tags": [
+      "pharma",
+      "formulation",
+      "f&d",
+      "rnd",
+      "pharmaceutics",
+      "drug-development",
+      "m-pharm"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "analytical_rd_in",
+    "title": "Analytical Research & Development Scientist (AR&D)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Build the test methods everyone else relies on - develop and validate HPLC, GC and dissolution methods, characterise impurities and support regulatory filings with analytical data.",
+    "salary_range": {
+      "min": 30000,
+      "max": 220000,
+      "currency": "INR/month",
+      "note": "AR&D scientist to analytical head"
+    },
+    "growth_outlook": "Strong - method development is a bottleneck skill across the industry",
+    "work_style": [
+      "Lab-based",
+      "R&D",
+      "Precision work"
+    ],
+    "required_skills": [
+      {
+        "skill": "Analytical Method Development & Validation",
+        "level": "critical"
+      },
+      {
+        "skill": "HPLC / GC Operation",
+        "level": "critical"
+      },
+      {
+        "skill": "Analytical Techniques (HPLC, NMR, MS)",
+        "level": "critical"
+      },
+      {
+        "skill": "Dissolution & Stability Studies (ICH Q1A)",
+        "level": "important"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "important"
+      },
+      {
+        "skill": "Regulatory & Scientific Medical Writing",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "M.Sc Chemistry (Analytical / Organic) or M.Pharm",
+      "Join an AR&D lab at a pharma company or CRO",
+      "Own method development and validation for products",
+      "Move to senior scientist, then analytical head"
+    ],
+    "qualifications": [
+      "M.Sc Analytical / Organic Chemistry, or M.Pharm; Ph.D for senior roles",
+      "ICH Q2(R2) method validation knowledge",
+      "Impurity profiling and characterisation experience valued"
+    ],
+    "tags": [
+      "pharma",
+      "ar&d",
+      "analytical",
+      "method-development",
+      "hplc",
+      "rnd",
+      "chemistry"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "api_process_chemist_in",
+    "title": "API / Process Chemist (Synthesis)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Design and scale the chemistry that makes the drug substance itself - route selection, reaction optimisation, yield and impurity control, and safe scale-up from gram to tonne.",
+    "salary_range": {
+      "min": 30000,
+      "max": 220000,
+      "currency": "INR/month",
+      "note": "Process chemist to process development head at an API or CDMO company"
+    },
+    "growth_outlook": "Strong - India is a major API and CDMO hub; PLI support for API manufacturing",
+    "work_style": [
+      "Lab-based",
+      "R&D",
+      "Chemical handling"
+    ],
+    "required_skills": [
+      {
+        "skill": "Process Chemistry & Route Scouting",
+        "level": "critical"
+      },
+      {
+        "skill": "Organic Chemistry / Medicinal Chemistry",
+        "level": "critical"
+      },
+      {
+        "skill": "Analytical Techniques (HPLC, NMR, MS)",
+        "level": "important"
+      },
+      {
+        "skill": "Process Safety Management (HAZOP)",
+        "level": "important"
+      },
+      {
+        "skill": "Experimental Design",
+        "level": "important"
+      },
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "M.Sc Organic Chemistry or Ph.D",
+      "Join an API manufacturer or CDMO R&D lab",
+      "Work through lab, kilo lab and pilot-plant scale-up",
+      "Move to senior scientist, then process development head"
+    ],
+    "qualifications": [
+      "M.Sc Organic Chemistry minimum; Ph.D common for senior roles",
+      "Strong synthetic organic chemistry and scale-up understanding",
+      "Reaction-hazard and process-safety training for pilot-plant work"
+    ],
+    "tags": [
+      "pharma",
+      "api",
+      "process-chemistry",
+      "synthesis",
+      "rnd",
+      "cdmo",
+      "organic-chemistry"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "pharma_microbiologist_in",
+    "title": "Pharma Microbiologist (Sterile & Water Testing)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Keep medicines free of contamination - sterility testing, bioburden and endotoxin testing, environmental monitoring of cleanrooms, and water-system testing to pharmacopoeial limits.",
+    "salary_range": {
+      "min": 22000,
+      "max": 120000,
+      "currency": "INR/month",
+      "note": "Microbiologist to microbiology section head"
+    },
+    "growth_outlook": "Strong - injectable and biologics capacity expanding in India",
+    "work_style": [
+      "Lab-based",
+      "Cleanroom",
+      "Precision work"
+    ],
+    "required_skills": [
+      {
+        "skill": "Sterility Testing & Environmental Monitoring",
+        "level": "critical"
+      },
+      {
+        "skill": "Microbial Limit Testing",
+        "level": "critical"
+      },
+      {
+        "skill": "Aseptic Technique & Cleanroom Practice",
+        "level": "critical"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "important"
+      },
+      {
+        "skill": "Lab Documentation (Good Laboratory Practice)",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "B.Sc or M.Sc in Microbiology",
+      "Join a pharma microbiology lab as a trainee",
+      "Get trained in aseptic technique and cleanroom entry",
+      "Move to senior microbiologist, then section head"
+    ],
+    "qualifications": [
+      "M.Sc Microbiology preferred; B.Sc accepted for junior roles",
+      "Knowledge of USP <71>, <61>, <85> and IP equivalents",
+      "Sterile-facility experience commands a premium"
+    ],
+    "tags": [
+      "pharma",
+      "microbiology",
+      "sterility",
+      "cleanroom",
+      "laboratory",
+      "testing",
+      "m-sc"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "validation_engineer_in",
+    "title": "Validation & Qualification Engineer (CSV / Equipment)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Prove that equipment, utilities, cleaning procedures and computer systems consistently do what they are supposed to - IQ/OQ/PQ protocols, cleaning validation and GAMP 5 computer system validation.",
+    "salary_range": {
+      "min": 30000,
+      "max": 180000,
+      "currency": "INR/month",
+      "note": "Validation engineer to validation manager"
+    },
+    "growth_outlook": "Strong - every new line, facility and system needs validation",
+    "work_style": [
+      "Plant-based",
+      "Documentation-heavy",
+      "Technical"
+    ],
+    "required_skills": [
+      {
+        "skill": "Equipment Qualification (IQ / OQ / PQ)",
+        "level": "critical"
+      },
+      {
+        "skill": "Computer System Validation (CSV / GAMP 5)",
+        "level": "critical"
+      },
+      {
+        "skill": "Cleaning Validation",
+        "level": "important"
+      },
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "critical"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "important"
+      },
+      {
+        "skill": "Report Writing & Documentation",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.Pharm, M.Pharm or B.E. in Chemical / Instrumentation",
+      "Join a pharma plant engineering or QA validation team",
+      "Learn IQ/OQ/PQ protocol writing and execution",
+      "Move to validation lead, then validation manager"
+    ],
+    "qualifications": [
+      "B.Pharm / M.Pharm, or B.E. Chemical / Instrumentation / Biotechnology",
+      "GAMP 5 and 21 CFR Part 11 knowledge for CSV roles",
+      "Experience with US FDA or EU-GMP inspected sites is a strong differentiator"
+    ],
+    "tags": [
+      "pharma",
+      "validation",
+      "qualification",
+      "csv",
+      "gamp",
+      "gmp",
+      "engineering"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "medical_writer_in",
+    "title": "Medical Writer (Regulatory & Scientific)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Write the documents medicine runs on - clinical study reports, protocols, regulatory dossier sections, manuscripts and safety narratives - accurately, and to the format the regulator expects.",
+    "salary_range": {
+      "min": 30000,
+      "max": 200000,
+      "currency": "INR/month",
+      "note": "Medical writer to lead writer or medical writing manager"
+    },
+    "growth_outlook": "Strong - outsourced medical writing is a large and growing Indian sector",
+    "work_style": [
+      "Office / Remote",
+      "Knowledge work",
+      "Deadline-driven"
+    ],
+    "required_skills": [
+      {
+        "skill": "Regulatory & Scientific Medical Writing",
+        "level": "critical"
+      },
+      {
+        "skill": "Medical Terminology",
+        "level": "critical"
+      },
+      {
+        "skill": "GCP (Good Clinical Practice)",
+        "level": "important"
+      },
+      {
+        "skill": "Literature Review",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "Academic Writing",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Life sciences, pharmacy or medical degree",
+      "Take a medical writing certification or build a writing portfolio",
+      "Join a CRO, pharma company or medical communications agency",
+      "Specialise in regulatory or publication writing"
+    ],
+    "qualifications": [
+      "B.Pharm / M.Pharm / M.Sc Life Sciences / BDS / MBBS",
+      "Medical writing certification (AMWA, ISMPP or Indian equivalents)",
+      "ICH E3 (CSR structure) and CTD format knowledge",
+      "Strong English writing ability is the core requirement"
+    ],
+    "tags": [
+      "pharma",
+      "medical-writing",
+      "regulatory-writing",
+      "scientific-writing",
+      "cro",
+      "clinical",
+      "remote"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "clinical_data_manager_in",
+    "title": "Clinical Data Manager",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Own the data behind a clinical trial - design the database and CRFs, write edit checks, clean queries and lock the database so statisticians can analyse trustworthy data.",
+    "salary_range": {
+      "min": 30000,
+      "max": 200000,
+      "currency": "INR/month",
+      "note": "Clinical data associate to data management lead"
+    },
+    "growth_outlook": "Strong - clinical data work is heavily outsourced to India",
+    "work_style": [
+      "Office / Remote",
+      "Analytical",
+      "Documentation-heavy"
+    ],
+    "required_skills": [
+      {
+        "skill": "Clinical Data Management (EDC, Medidata Rave)",
+        "level": "critical"
+      },
+      {
+        "skill": "CDISC Standards (SDTM / ADaM)",
+        "level": "critical"
+      },
+      {
+        "skill": "GCP (Good Clinical Practice)",
+        "level": "important"
+      },
+      {
+        "skill": "SQL",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "Data Quality Management",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "Life sciences, pharmacy or statistics degree",
+      "Take a clinical data management certification",
+      "Join a CRO as a clinical data associate",
+      "Move to data manager, then data management lead"
+    ],
+    "qualifications": [
+      "B.Pharm / M.Pharm / M.Sc Life Sciences / B.Tech Biotechnology",
+      "PG Diploma or certification in Clinical Data Management",
+      "Medidata Rave, Oracle Clinical or Veeva EDC training",
+      "SCDM CCDM certification for senior roles"
+    ],
+    "tags": [
+      "pharma",
+      "clinical-data-management",
+      "cdm",
+      "edc",
+      "cro",
+      "clinical-trials",
+      "cdisc"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "biostatistician_in",
+    "title": "Biostatistician (Clinical Trials)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Decide whether a drug actually works. Design trial statistics, write the statistical analysis plan, program the analysis in SAS or R, and produce the tables regulators use to approve or reject.",
+    "salary_range": {
+      "min": 40000,
+      "max": 300000,
+      "currency": "INR/month",
+      "note": "Biostatistician to principal statistician; among the best-paid non-medical pharma roles"
+    },
+    "growth_outlook": "Very strong - a persistent shortage of trained biostatisticians",
+    "work_style": [
+      "Office / Remote",
+      "Analytical",
+      "Knowledge work"
+    ],
+    "required_skills": [
+      {
+        "skill": "Biostatistics",
+        "level": "critical"
+      },
+      {
+        "skill": "SAS Programming for Clinical Trials",
+        "level": "critical"
+      },
+      {
+        "skill": "CDISC Standards (SDTM / ADaM)",
+        "level": "important"
+      },
+      {
+        "skill": "Statistical Analysis",
+        "level": "critical"
+      },
+      {
+        "skill": "Experimental Design",
+        "level": "important"
+      },
+      {
+        "skill": "Regulatory & Scientific Medical Writing",
+        "level": "helpful"
+      }
+    ],
+    "entry_paths": [
+      "M.Sc in Statistics, Biostatistics or Mathematics",
+      "Learn SAS (and increasingly R) for clinical programming",
+      "Join a CRO or pharma biometrics team",
+      "Move to senior, then principal biostatistician"
+    ],
+    "qualifications": [
+      "M.Sc / M.Stat in Statistics or Biostatistics (mandatory)",
+      "SAS certification is the standard industry credential",
+      "ICH E9 statistical principles knowledge",
+      "Ph.D for principal and regulatory-facing roles"
+    ],
+    "tags": [
+      "pharma",
+      "biostatistics",
+      "statistics",
+      "sas",
+      "clinical-trials",
+      "biometrics",
+      "cro"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "medical_affairs_msl_in",
+    "title": "Medical Science Liaison (MSL) / Medical Affairs",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Be the scientific face of a pharma company to doctors. Discuss clinical data with specialists and key opinion leaders, support investigator studies and feed medical insight back to the company - a non-sales, science-led role.",
+    "salary_range": {
+      "min": 60000,
+      "max": 350000,
+      "currency": "INR/month",
+      "note": "MSL to medical affairs manager or medical director"
+    },
+    "growth_outlook": "Strong - specialty and biologics launches are expanding medical affairs teams",
+    "work_style": [
+      "Field-based",
+      "Travel",
+      "Scientific"
+    ],
+    "required_skills": [
+      {
+        "skill": "Scientific Engagement with KOLs",
+        "level": "critical"
+      },
+      {
+        "skill": "Clinical Knowledge",
+        "level": "critical"
+      },
+      {
+        "skill": "Medical Terminology",
+        "level": "important"
+      },
+      {
+        "skill": "Regulatory & Scientific Medical Writing",
+        "level": "important"
+      },
+      {
+        "skill": "Presentation Skills",
+        "level": "critical"
+      },
+      {
+        "skill": "Relationship Building",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "MBBS, BDS, M.Pharm, Pharm.D or Ph.D in life sciences",
+      "Some enter after clinical research or medical writing experience",
+      "Join a pharma medical affairs team as an MSL",
+      "Move to senior MSL, medical advisor, then medical director"
+    ],
+    "qualifications": [
+      "MBBS / BDS / Pharm.D / M.Pharm / Ph.D - an advanced qualification is expected",
+      "Deep therapeutic-area knowledge (oncology, cardiology, immunology)",
+      "Strong communication with specialist clinicians is essential"
+    ],
+    "tags": [
+      "pharma",
+      "msl",
+      "medical-affairs",
+      "medical-science-liaison",
+      "kol",
+      "clinical",
+      "field-based"
+    ],
+    "collar": "gold"
+  },
+  {
+    "id": "biologics_production_in",
+    "title": "Biologics & Vaccine Production Executive",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Make medicines from living cells - run upstream fermentation and cell culture, then downstream purification, in vaccine and biosimilar plants where sterility is everything.",
+    "salary_range": {
+      "min": 25000,
+      "max": 150000,
+      "currency": "INR/month",
+      "note": "Production executive to biologics production manager"
+    },
+    "growth_outlook": "Growing fast - India is a major vaccine producer and biosimilars are expanding",
+    "work_style": [
+      "Plant-based",
+      "Cleanroom",
+      "Shift work"
+    ],
+    "required_skills": [
+      {
+        "skill": "Upstream & Downstream Bioprocessing",
+        "level": "critical"
+      },
+      {
+        "skill": "Aseptic Technique & Cleanroom Practice",
+        "level": "critical"
+      },
+      {
+        "skill": "Cell Culture & Assay Development",
+        "level": "important"
+      },
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "critical"
+      },
+      {
+        "skill": "Batch Manufacturing Record (BMR / BPR) Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "B.Tech Biotechnology, M.Sc Biotechnology or Microbiology",
+      "Join a vaccine, biosimilar or biologics plant as a trainee",
+      "Specialise in upstream or downstream operations",
+      "Move to executive, then production manager"
+    ],
+    "qualifications": [
+      "B.Tech / M.Sc in Biotechnology, Microbiology or Biochemistry",
+      "Bioprocess and cleanroom training",
+      "WHO-GMP and EU-GMP knowledge for export-oriented plants"
+    ],
+    "tags": [
+      "pharma",
+      "biologics",
+      "vaccine",
+      "bioprocessing",
+      "biotechnology",
+      "manufacturing",
+      "upstream"
+    ],
+    "collar": "gray"
+  },
+  {
+    "id": "drug_inspector_in",
+    "title": "Drug Inspector (CDSCO / State FDA)",
+    "category": "Pharma & Life Sciences",
+    "region": "IN",
+    "description": "Enforce drug law on the ground - inspect pharmacies, manufacturers and distributors, draw samples for testing, act against spurious drugs and prosecute violations under the Drugs and Cosmetics Act.",
+    "salary_range": {
+      "min": 45000,
+      "max": 130000,
+      "currency": "INR/month",
+      "note": "Drug Inspector to Assistant Drugs Controller and above; government pay scales"
+    },
+    "growth_outlook": "Stable - sanctioned government posts; competitive entry",
+    "work_style": [
+      "Field-based",
+      "Government",
+      "Statutory role"
+    ],
+    "required_skills": [
+      {
+        "skill": "Drugs & Cosmetics Act 1940",
+        "level": "critical"
+      },
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "critical"
+      },
+      {
+        "skill": "Inspection & Sampling Procedures",
+        "level": "critical"
+      },
+      {
+        "skill": "Report Writing & Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Legal Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Integrity & Ethics",
+        "level": "critical"
+      }
+    ],
+    "entry_paths": [
+      "B.Pharm (the standard eligibility), or M.Pharm / M.Sc with the required subjects",
+      "Apply through UPSC (for CDSCO) or state PSC recruitment",
+      "Clear the written examination and interview",
+      "Promotion to Assistant Drugs Controller and Drugs Controller"
+    ],
+    "qualifications": [
+      "B.Pharm degree - the core eligibility under the Drugs and Cosmetics Rules",
+      "UPSC or State Public Service Commission examination",
+      "Some posts accept M.Sc Chemistry with specified subjects",
+      "Age and other criteria as per the recruitment notification"
+    ],
+    "tags": [
+      "pharma",
+      "drug-inspector",
+      "government",
+      "cdsco",
+      "fda",
+      "regulatory",
+      "upsc",
+      "b-pharm"
+    ],
+    "collar": "red"
+  },
+  {
+    "id": "us_regulatory_affairs_specialist",
+    "title": "Regulatory Affairs Specialist",
+    "category": "Pharma & Life Sciences",
+    "region": "US",
+    "description": "Prepare and file submissions to the FDA - INDs, NDAs, ANDAs and 510(k)s - respond to agency questions, and keep product labelling and registrations compliant.",
+    "salary_range": {
+      "min": 75000,
+      "max": 140000,
+      "currency": "USD/year",
+      "note": "RA specialist to regulatory affairs manager"
+    },
+    "growth_outlook": "Strong - steady demand across pharma, biotech and device firms",
+    "work_style": [
+      "Office / Hybrid",
+      "Documentation-heavy",
+      "Deadline-driven"
+    ],
+    "required_skills": [
+      {
+        "skill": "CDSCO & US FDA Regulations",
+        "level": "critical"
+      },
+      {
+        "skill": "Regulatory Dossier Filing (CTD / eCTD)",
+        "level": "critical"
+      },
+      {
+        "skill": "ANDA / DMF Submissions",
+        "level": "important"
+      },
+      {
+        "skill": "Regulatory & Scientific Medical Writing",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "Project Management",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "BS in Life Sciences, Chemistry or Pharmacy",
+      "Entry through QA, clinical or regulatory operations",
+      "RAC certification from RAPS",
+      "Move to RA manager, then director of regulatory affairs"
+    ],
+    "qualifications": [
+      "BS in Life Sciences, Chemistry, Pharmacy or Engineering",
+      "RAC (Regulatory Affairs Certification) from RAPS is the key credential",
+      "21 CFR knowledge; 21 CFR 820 for medical devices"
+    ],
+    "tags": [
+      "regulatory-affairs",
+      "fda",
+      "pharma",
+      "medical-device",
+      "compliance",
+      "raps"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "us_clinical_research_coordinator",
+    "title": "Clinical Research Coordinator (CRC)",
+    "category": "Pharma & Life Sciences",
+    "region": "US",
+    "description": "Run clinical trials at the site - screen and consent patients, follow the protocol visit by visit, collect data and keep the site inspection-ready.",
+    "salary_range": {
+      "min": 55000,
+      "max": 90000,
+      "currency": "USD/year",
+      "note": "CRC to lead coordinator or clinical research manager"
+    },
+    "growth_outlook": "Strong - trial volume keeps site staffing in demand",
+    "work_style": [
+      "Site-based",
+      "Patient-facing",
+      "Documentation-heavy"
+    ],
+    "required_skills": [
+      {
+        "skill": "GCP (Good Clinical Practice)",
+        "level": "critical"
+      },
+      {
+        "skill": "Protocol Compliance Monitoring",
+        "level": "critical"
+      },
+      {
+        "skill": "Patient Care",
+        "level": "important"
+      },
+      {
+        "skill": "Clinical Data Management (EDC, Medidata Rave)",
+        "level": "important"
+      },
+      {
+        "skill": "Attention to Detail",
+        "level": "critical"
+      },
+      {
+        "skill": "Medical Terminology",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "BS in Life Sciences, Nursing or a health field",
+      "Entry as a clinical research assistant at a hospital or academic site",
+      "ACRP CCRC or SOCRA CCRP certification",
+      "Move to lead CRC, then clinical research manager"
+    ],
+    "qualifications": [
+      "BS in Nursing, Life Sciences or a related field",
+      "ACRP CCRC or SOCRA CCRP certification",
+      "ICH-GCP training is mandatory"
+    ],
+    "tags": [
+      "clinical-research",
+      "crc",
+      "clinical-trials",
+      "gcp",
+      "pharma",
+      "hospital"
+    ],
+    "collar": "white"
+  },
+  {
+    "id": "us_pharma_qa_specialist",
+    "title": "Pharmaceutical QA Specialist (cGMP)",
+    "category": "Pharma & Life Sciences",
+    "region": "US",
+    "description": "Maintain the quality system in a cGMP facility - batch record review, deviations, CAPA, change control and audit readiness for FDA inspection.",
+    "salary_range": {
+      "min": 65000,
+      "max": 115000,
+      "currency": "USD/year",
+      "note": "QA specialist to QA manager at a pharma or biotech manufacturer"
+    },
+    "growth_outlook": "Strong - biologics and CDMO growth is expanding US pharma QA teams",
+    "work_style": [
+      "Plant-based",
+      "Audit-driven",
+      "Documentation-heavy"
+    ],
+    "required_skills": [
+      {
+        "skill": "Quality Management System (QMS) - Deviations, CAPA, Change Control",
+        "level": "critical"
+      },
+      {
+        "skill": "cGMP & Schedule M Compliance",
+        "level": "critical"
+      },
+      {
+        "skill": "Data Integrity & ALCOA+",
+        "level": "critical"
+      },
+      {
+        "skill": "Batch Manufacturing Record (BMR / BPR) Documentation",
+        "level": "important"
+      },
+      {
+        "skill": "Internal Audit",
+        "level": "important"
+      },
+      {
+        "skill": "Root Cause Analysis",
+        "level": "important"
+      }
+    ],
+    "entry_paths": [
+      "BS in Chemistry, Biology, Pharmacy or Engineering",
+      "Entry as a QA associate or QC analyst",
+      "ASQ CQA or CPGP certification",
+      "Move to QA specialist, then QA manager"
+    ],
+    "qualifications": [
+      "BS in a science or engineering discipline",
+      "21 CFR Parts 210/211 and Part 11 knowledge",
+      "ASQ Certified Pharmaceutical GMP Professional (CPGP) valued"
+    ],
+    "tags": [
+      "pharma",
+      "qa",
+      "quality-assurance",
+      "cgmp",
+      "fda",
+      "biotech",
+      "compliance"
+    ],
+    "collar": "white"
   }
 ]
